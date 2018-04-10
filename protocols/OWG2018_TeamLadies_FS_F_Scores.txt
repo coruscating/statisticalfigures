@@ -1,0 +1,187 @@
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ MON 12 FEB 2018 Ladies Single Skating Free Skating
+ 여자 싱글 스케이팅 프리 스케이팅 / Patinage individuel femmes, programme libre
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 1 ZAGITOVA Alina OAR 5 158.08 83.06 75.02 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 ChSq1 2.00 1.70 3 2 2 1 3 3 2 3 2 3.70
+ 2 FCSp4 3.20 1.21 3 3 2 2 2 3 2 2 3 4.41
+ 3 StSq4 3.90 1.80 3 3 2 1 3 2 3 2 3 5.70
+ 4 3Lz+3Lo 12.21 x 1.30 2 2 1 2 2 1 2 2 2 13.51
+ 5 2A+3T 8.36 x 1.50 2 2 2 2 2 2 3 2 3 9.86
+ 6 3F+2T+2Lo 9.24 x 0.90 2 2 0 1 1 1 0 2 2 10.14
+ 7 LSp4 2.70 1.14 3 2 2 2 2 2 2 3 3 3.84
+ 8 3Lz 6.60 x 2.00 3 2 3 3 3 3 2 3 3 8.60
+ 9 3S 4.84 x 1.70 3 2 2 2 2 3 2 3 3 6.54
+ 10 3F 5.83 x 1.30 2 2 2 0 2 2 1 2 2 7.13
+ 11 2A 3.63 x 1.00 3 2 2 2 2 2 2 2 2 4.63
+ 12 CCoSp4 3.50 1.50 3 3 3 3 3 3 3 3 3 5.00
+ 66.01 83.06
+ Program Components Factor
+ Skating Skills 1.60 9.75 9.50 8.50 8.75 9.50 9.25 9.25 9.25 9.00 9.21
+ Transitions 1.60 9.75 9.25 9.00 9.00 9.75 9.25 9.00 9.50 9.25 9.29
+ Performance 1.60 10.00 9.75 9.25 9.25 10.00 9.50 9.50 9.75 9.25 9.57
+ Composition 1.60 9.75 9.25 9.25 9.00 9.75 8.75 9.75 9.50 9.25 9.39
+ Interpretation of the Music 1.60 10.00 9.50 9.00 9.25 9.50 9.50 9.50 9.50 9.25 9.43
+ Judges Total Program Component Score (factored) 75.02
+ Deductions: Total Total Total Program 0.00
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 2 NAGASU Mirai USA 1 137.53 73.38 64.15 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3A 8.50 1.57 3 1 1 2 1 2 2 0 2 10.07
+ 2 3F+3T 9.60 0.00 0 0 -1 -1 0 1 0 1 0 9.60
+ 3 3S 4.40 0.70 2 1 1 1 0 1 1 1 1 5.10
+ 4 CCoSp3V 2.50 0.79 2 1 1 1 2 3 2 2 1 3.29
+ 5 FCSp4 3.20 0.79 2 1 2 1 2 2 1 2 1 3.99
+ 6 2A+3T+2T 8.90 0.80 1 1 0 2 2 1 1 1 1 9.70
+ 7 3Lz+2T 8.03 x 0.60 1 0 0 1 1 1 1 1 1 8.63
+ 8 3F 5.83 x 0.60 1 0 0 0 1 2 1 1 2 6.43
+ 9 StSq3 3.30 0.43 1 1 0 0 1 2 1 1 1 3.73
+ 10 ChSq1 2.00 0.70 2 1 0 0 2 1 1 1 1 2.70
+ 11 3Lo 5.61 x 0.90 2 1 1 1 2 2 1 1 1 6.51
+ 12 LSp4 2.70 0.93 2 1 2 2 2 3 1 2 2 3.63
+ 64.57 73.38
+ Program Components Factor
+ Skating Skills 1.60 9.25 8.00 7.75 8.00 8.50 8.75 8.00 8.25 8.25 8.25
+ Transitions 1.60 8.50 7.50 7.25 7.00 7.75 8.25 7.25 7.75 7.75 7.64
+ Performance 1.60 8.75 8.25 7.75 7.50 8.50 9.25 8.50 8.25 8.25 8.32
+ Composition 1.60 8.50 7.75 7.50 7.25 8.00 8.75 7.75 7.75 8.00 7.89
+ Interpretation of the Music 1.60 8.75 8.00 7.50 7.00 8.25 8.75 7.50 7.75 8.25 8.00
+ Judges Total Program Component Score (factored) 64.15
+ Deductions: 0.00
+FSKXTEAM--------------FNL-0002LD--_77B 1.0 Report Created MON 12 FEB 2018 11:59 Page 1 / 3
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ MON 12 FEB 2018 Ladies Single Skating Free Skating
+ 여자 싱글 스케이팅 프리 스케이팅 / Patinage individuel femmes, programme libre
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 3 DALEMAN Gabrielle CAN 3 137.14 68.86 68.28 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3T+3T 8.60 1.20 1 1 3 2 2 2 2 1 2 9.80
+ 2 3Lz 6.00 1.10 0 1 2 2 2 1 1 2 2 7.10
+ 3 3F 5.30 1.00 0 1 2 2 1 2 1 1 2 6.30
+ 4 FCSp4 3.20 0.50 1 1 1 0 1 1 1 1 1 3.70
+ 5 LSp4 2.70 0.64 2 1 1 1 1 2 1 2 1 3.34
+ 6 3Lz+2T+2T 9.46 x 0.90 0 1 2 1 1 1 1 2 2 10.36
+ 7 3Lo< < 3.96 x -0.70 -1 -1 -1 -1 -1 -1 -1 -1 -1 3.26
+ 8 ChSq1 2.00 1.00 1 1 3 1 2 2 1 2 1 3.00
+ 9 2A 3.63 x 0.93 0 1 2 3 2 2 2 2 2 4.56
+ 10 3S+2A+SEQ 6.78 x 0.90 1 1 2 1 1 1 0 2 2 7.68
+ 11 StSq4 3.90 1.50 1 2 3 2 3 2 2 2 2 5.40
+ 12 CCoSp4 3.50 0.86 1 1 2 2 3 2 2 2 1 4.36
+ 59.03 68.86
+ Program Components Factor
+ Skating Skills 1.60 8.25 8.50 9.00 8.75 8.50 9.00 8.75 9.00 8.50 8.71
+ Transitions 1.60 8.00 8.00 8.75 8.25 8.25 8.25 8.00 8.50 8.00 8.18
+ Performance 1.60 8.25 8.50 9.00 8.75 8.75 9.00 8.75 8.75 8.50 8.71
+ Composition 1.60 8.00 8.25 9.00 8.50 8.50 8.75 8.50 8.75 8.25 8.50
+ Interpretation of the Music 1.60 8.25 8.50 8.75 8.50 8.50 8.75 8.50 8.75 8.50 8.57
+ Judges Total Program Component Score (factored) 68.28
+ Deductions: Total Total Total Program 0.00
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 4 KOSTNER Carolina ITA 4 134.00 59.73 74.27 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3Lz 6.00 1.50 2 2 2 3 2 3 1 2 2 7.50
+ 2 3F+2T 6.60 0.00 0 0 -1 -1 0 1 0 1 0 6.60
+ 3 3Lo 5.10 -1.30 -1 -2 -2 -2 -2 -2 -2 -2 -1 3.80
+ 4 FCSp4 3.20 0.71 1 1 2 2 1 2 1 2 1 3.91
+ 5 FCCoSp3 3.00 1.00 2 2 2 2 2 2 2 2 2 4.00
+ 6 3T 4.73 x 0.20 0 0 -1 0 1 1 0 1 0 4.93
+ 7 2A+1Lo<+3S< < 7.48 x -0.79 -1 -2 -2 -1 -2 -2 -1 -2 -1 6.69
+ 8 2A< < 2.53 x -0.50 -1 -1 -1 0 -1 -1 -1 -1 -1 2.03
+ 9 3S+2T 6.27 x 0.30 0 0 0 0 1 1 0 2 1 6.57
+ 10 ChSq1 2.00 1.80 2 2 3 2 3 3 2 3 3 3.80
+ 11 StSq4 3.90 2.00 2 3 3 2 3 3 3 3 3 5.90
+ 12 CCoSp4 3.50 0.50 1 1 1 0 2 1 0 2 1 4.00
+ 54.31 59.73
+ Program Components Factor
+ Skating Skills 1.60 9.25 9.25 8.75 9.50 9.50 9.25 9.50 9.50 9.50 9.39
+ Transitions 1.60 9.25 9.00 8.75 9.00 9.50 8.75 9.50 9.00 9.00 9.07
+ Performance 1.60 9.50 9.00 8.50 9.25 8.75 9.25 8.75 8.75 9.25 9.00
+ Composition 1.60 9.50 9.25 8.75 9.50 9.50 9.50 9.75 9.50 9.50 9.46
+ Interpretation of the Music 1.60 9.50 9.50 9.00 9.50 9.75 9.50 9.50 9.50 9.50 9.50
+ Judges Total Program Component Score (factored) 74.27
+ Deductions: 0.00
+FSKXTEAM--------------FNL-0002LD--_77B 1.0 Report Created MON 12 FEB 2018 11:59 Page 2 / 3
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ MON 12 FEB 2018 Ladies Single Skating Free Skating
+ 여자 싱글 스케이팅 프리 스케이팅 / Patinage individuel femmes, programme libre
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 5 SAKAMOTO Kaori JPN 2 131.91 65.51 66.40 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3F< < 3.70 -0.70 -1 -1 -1 -1 -1 -1 -1 -2 -1 3.00
+ 2 3S 4.40 0.50 0 0 1 0 1 1 1 1 2 4.90
+ 3 StSq3 3.30 0.71 1 1 2 1 2 2 2 1 1 4.01
+ 4 FSSp4 3.00 0.86 1 1 2 1 2 2 2 2 2 3.86
+ 5 3Lz ! 6.60 x -0.10 -1 0 0 0 0 -1 0 0 0 6.50
+ 6 3F+3T 10.56 x 1.00 2 1 1 2 1 2 1 2 1 11.56
+ 7 CCoSp2V 2.00 0.71 2 1 1 1 2 2 1 2 1 2.71
+ 8 2A+3T 8.36 x 0.00 0 0 0 0 0 0 -1 1 0 8.36
+ 9 ChSq1 2.00 0.70 1 1 1 0 1 3 1 1 1 2.70
+ 10 3Lo 5.61 x 1.10 1 1 2 1 2 2 2 1 2 6.71
+ 11 2A+2T+2T 6.49 x 0.50 0 1 1 1 1 2 1 1 1 6.99
+ 12 FCCoSp4 3.50 0.71 1 1 1 1 2 2 1 2 2 4.21
+ 59.52 65.51
+ Program Components Factor
+ Skating Skills 1.60 8.50 8.25 8.25 8.25 8.75 8.75 7.75 8.25 8.00 8.32
+ Transitions 1.60 8.75 7.75 8.25 7.50 8.50 8.50 8.00 8.00 7.75 8.11
+ Performance 1.60 9.00 8.00 8.00 7.50 8.75 9.00 8.50 8.25 7.75 8.32
+ Composition 1.60 8.75 8.00 8.50 8.00 8.50 9.00 8.75 8.25 8.00 8.39
+ Interpretation of the Music 1.60 9.00 8.25 8.50 7.75 8.25 9.25 8.50 8.00 8.00 8.36
+ Judges Total Program Component Score (factored) 66.40
+ Deductions: 0.00
+ Legend:
+ # Sequence number < Under-rotated jump x Credit for highlight distribution, base value multiplied by 1.1
+ ! Not clear edge GOE Grade of Execution Jx Judges (x=1-9) Ref. Referee
+FSKXTEAM--------------FNL-0002LD--_77B 1.0 Report Created MON 12 FEB 2018 11:59 Page 3 / 3
+

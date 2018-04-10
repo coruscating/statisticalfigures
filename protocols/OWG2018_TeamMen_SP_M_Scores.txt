@@ -1,0 +1,312 @@
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ FRI 9 FEB 2018 Men Single Skating Short Program
+ 남자 싱글 스케이팅 쇼트 프로그램 / Patinage individuel hommes, programme court
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 1 UNO Shoma JPN 10 103.25 56.64 46.61 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 4F 12.30 -2.86 -3 -2 -2 -2 -2 -3 -2 -2 -3 9.44
+ 2 FCSp4 3.20 1.21 2 2 3 3 2 2 3 2 3 4.41
+ 3 StSq3 3.30 1.36 3 2 3 3 2 2 3 3 3 4.66
+ 4 4T+3T 16.06 x 1.86 1 2 2 2 1 2 3 2 2 17.92
+ 5 3A 9.35 x 2.29 2 2 3 3 2 2 2 2 3 11.64
+ 6 CSSp4 3.00 0.86 3 1 0 2 2 1 2 2 2 3.86
+ 7 CCoSp4 3.50 1.21 2 3 2 3 2 2 2 3 3 4.71
+ 50.71 56.64
+ Program Components Factor
+ Skating Skills 1.00 9.50 9.25 9.50 9.75 9.25 9.25 9.50 8.75 9.25 9.36
+ Transitions 1.00 9.50 9.25 9.50 9.50 8.75 9.00 9.25 9.00 9.25 9.25
+ Performance 1.00 9.00 9.00 9.25 9.50 9.25 9.50 9.25 8.75 9.50 9.25
+ Composition 1.00 9.50 9.50 9.50 9.75 9.00 9.50 9.50 8.75 9.25 9.39
+ Interpretation of the Music 1.00 9.50 9.25 9.25 9.50 9.00 9.50 9.50 9.00 9.50 9.36
+ Judges Total Program Component Score (factored) 46.61
+ Deductions: Total Total Total Program 0.00
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 2 BYCHENKO Alexei ISR 7 88.49 47.59 40.90 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3A 8.50 1.86 2 2 2 2 2 2 2 1 1 10.36
+ 2 4T 10.30 1.43 2 2 0 2 2 2 1 0 1 11.73
+ 3 CCoSp3 3.00 0.50 1 1 1 1 1 1 1 1 0 3.50
+ 4 3Lz+3T 11.33 x 0.90 2 2 1 1 1 1 1 2 0 12.23
+ 5 FCSp2 2.30 0.03 0 -1 0 0 0 0 1 1 -1 2.33
+ 6 StSq3 3.30 0.64 2 1 2 2 1 1 1 1 0 3.94
+ 7 CSSp4 3.00 0.50 1 2 1 1 1 1 1 1 0 3.50
+ 41.73 47.59
+ Program Components Factor
+ Skating Skills 1.00 8.50 8.25 8.50 8.50 8.25 8.00 7.25 6.50 7.75 8.07
+ Transitions 1.00 8.00 8.00 8.25 8.00 8.00 7.75 7.50 5.75 7.50 7.82
+ Performance 1.00 8.50 8.50 9.00 8.25 8.75 8.50 8.25 7.00 8.25 8.43
+ Composition 1.00 8.50 8.25 8.50 8.50 8.50 8.50 7.75 6.50 8.00 8.29
+ Interpretation of the Music 1.00 8.50 8.50 9.00 8.50 8.50 8.50 8.00 6.75 7.50 8.29
+ Judges Total Program Component Score (factored) 40.90
+ Deductions: 0.00
+FSKXTEAM--------------QUAL0001MN--_77B 1.0 Report Created FRI 9 FEB 2018 11:33 Page 1 / 5
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ FRI 9 FEB 2018 Men Single Skating Short Program
+ 남자 싱글 스케이팅 쇼트 프로그램 / Patinage individuel hommes, programme court
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 3 CHAN Patrick CAN 6 81.66 38.56 45.10 -2.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 4T 10.30 -4.00 -3 -3 -3 -3 -3 -3 -3 -2 -3 6.30
+ 2 3Lz+2T 7.30 0.20 0 0 0 0 1 0 1 1 0 7.50
+ 3 CCSp4 3.20 1.07 2 3 3 2 2 2 2 2 2 4.27
+ 4 3A 9.35 x -3.00 -3 -3 -3 -3 -3 -3 -3 -2 -3 6.35
+ 5 StSq4 3.90 2.00 3 3 3 2 3 2 3 3 3 5.90
+ 6 FSSp3 2.60 1.14 2 3 2 2 3 3 2 2 2 3.74
+ 7 CCoSp4 3.50 1.00 2 2 2 2 2 2 2 2 3 4.50
+ 40.15 38.56
+ Program Components Factor
+ Skating Skills 1.00 9.25 8.75 9.00 9.25 9.50 9.50 9.25 9.00 9.25 9.21
+ Transitions 1.00 9.25 8.75 9.00 8.75 9.25 9.00 9.25 9.00 9.50 9.07
+ Performance 1.00 8.00 8.50 8.25 9.00 9.00 8.75 8.00 8.50 8.50 8.50
+ Composition 1.00 9.25 8.75 9.25 9.50 9.25 9.00 9.00 8.50 9.50 9.14
+ Interpretation of the Music 1.00 9.50 8.75 9.25 9.25 9.50 9.25 8.75 9.00 9.25 9.18
+ Judges Total Program Component Score (factored) 45.10
+ Deductions: Falls -2.00 (2) -2.00
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 4 CHEN Nathan USA 8 80.61 37.73 43.88 -1.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 4F+2T 13.60 -0.17 0 0 0 0 -1 0 0 -1 1 13.43
+ 2 FSSp4 3.00 0.64 1 1 2 0 1 2 2 1 1 3.64
+ 3 CCSp4 3.20 0.57 1 1 2 1 1 1 1 1 2 3.77
+ 4 2T* * 0.00 0.00 - - - - - - - - - 0.00
+ 5 3A 9.35 x -3.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 6.35
+ 6 StSq4 3.90 2.00 3 3 3 2 3 2 3 3 3 5.90
+ 7 CCoSp4 3.50 1.14 2 3 3 2 2 2 2 1 3 4.64
+ 36.55 37.73
+ Program Components Factor
+ Skating Skills 1.00 8.50 9.00 9.25 8.75 8.50 9.00 9.25 7.25 9.25 8.89
+ Transitions 1.00 8.25 9.00 9.00 8.25 8.75 8.75 9.00 8.50 9.00 8.75
+ Performance 1.00 8.00 8.75 8.75 8.25 8.50 9.00 8.50 8.00 8.50 8.46
+ Composition 1.00 8.50 9.25 9.50 8.50 9.00 9.00 9.25 8.50 9.25 8.96
+ Interpretation of the Music 1.00 8.50 9.00 9.50 8.25 8.50 9.00 8.75 8.75 9.25 8.82
+ Judges Total Program Component Score (factored) 43.88
+ Deductions: Falls -1.00 -1.00
+FSKXTEAM--------------QUAL0001MN--_77B 1.0 Report Created FRI 9 FEB 2018 11:33 Page 2 / 5
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ FRI 9 FEB 2018 Men Single Skating Short Program
+ 남자 싱글 스케이팅 쇼트 프로그램 / Patinage individuel hommes, programme court
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 5 RIZZO Matteo ITA 5 77.77 40.60 37.17 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3A 8.50 -1.14 -1 -1 -1 -1 -1 -2 -1 -2 -1 7.36
+ 2 3F+3T 9.60 1.00 1 1 1 1 2 2 2 1 2 10.60
+ 3 CCSp4 3.20 0.13 1 -1 -1 0 0 1 1 1 -1 3.33
+ 4 3Lz 6.60 x 0.60 1 1 0 1 1 2 2 0 0 7.20
+ 5 FSSp4 3.00 0.50 1 0 1 1 2 2 1 1 0 3.50
+ 6 StSq4 3.90 1.00 2 2 1 1 2 1 2 1 1 4.90
+ 7 CCoSp4 3.50 0.21 0 1 0 0 2 1 1 0 -1 3.71
+ 38.30 40.60
+ Program Components Factor
+ Skating Skills 1.00 7.25 7.75 7.75 7.25 7.50 7.50 7.50 6.00 7.00 7.39
+ Transitions 1.00 7.00 7.50 7.50 7.00 7.50 7.25 7.25 6.25 6.75 7.18
+ Performance 1.00 7.25 8.00 8.00 7.50 7.75 7.50 8.00 6.50 7.50 7.64
+ Composition 1.00 7.50 7.75 7.50 7.50 7.75 7.50 7.50 6.25 7.25 7.50
+ Interpretation of the Music 1.00 7.50 8.00 7.75 7.25 7.50 7.50 7.75 5.75 7.00 7.46
+ Judges Total Program Component Score (factored) 37.17
+ Deductions: Total Total Total Program 0.00
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 6 CHA Junhwan KOR 1 77.70 40.71 36.99 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3F+3T 9.60 0.70 1 1 1 1 1 2 1 1 1 10.30
+ 2 3A 8.50 0.57 1 1 1 0 0 0 1 0 2 9.07
+ 3 CCoSp4 3.50 0.79 2 2 0 1 2 2 1 1 3 4.29
+ 4 3Lz 6.60 x 0.50 1 1 1 0 1 1 0 0 2 7.10
+ 5 FCSp4 3.20 0.36 1 1 1 0 1 2 0 1 0 3.56
+ 6 StSq2 2.60 0.43 1 1 1 1 1 1 1 0 0 3.03
+ 7 CSSp4 3.00 0.36 2 0 -1 0 1 2 1 1 0 3.36
+ 37.00 40.71
+ Program Components Factor
+ Skating Skills 1.00 8.00 8.25 7.75 7.00 7.75 7.75 7.00 6.00 7.00 7.46
+ Transitions 1.00 7.50 8.25 7.50 6.50 7.50 7.50 7.00 6.00 7.25 7.25
+ Performance 1.00 7.75 8.25 7.75 6.75 7.50 8.00 7.25 6.25 7.25 7.46
+ Composition 1.00 7.50 8.25 7.50 6.50 7.75 8.00 7.50 6.25 7.50 7.46
+ Interpretation of the Music 1.00 7.75 8.00 7.25 6.75 7.25 8.00 7.25 5.75 7.25 7.36
+ Judges Total Program Component Score (factored) 36.99
+ Deductions: 0.00
+FSKXTEAM--------------QUAL0001MN--_77B 1.0 Report Created FRI 9 FEB 2018 11:33 Page 3 / 5
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ FRI 9 FEB 2018 Men Single Skating Short Program
+ 남자 싱글 스케이팅 쇼트 프로그램 / Patinage individuel hommes, programme court
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 7 YAN Han CHN 4 77.10 38.28 40.82 -2.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3A< < 5.90 -3.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 2.90
+ 2 4T 10.30 -4.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 6.30
+ 3 FCSp4 3.20 0.86 2 2 2 1 2 2 1 2 0 4.06
+ 4 3Lz+3T 11.33 x -0.20 -1 0 0 0 0 0 0 -2 -1 11.13
+ 5 CSSp4 3.00 0.86 2 2 -1 1 2 1 2 2 2 3.86
+ 6 StSq4 3.90 1.70 3 2 2 2 3 1 2 3 3 5.60
+ 7 CCoSp4 3.50 0.93 2 2 2 1 2 1 2 2 2 4.43
+ 41.13 38.28
+ Program Components Factor
+ Skating Skills 1.00 8.75 8.50 8.25 8.00 9.00 8.75 8.50 8.00 8.50 8.46
+ Transitions 1.00 8.50 8.25 7.75 7.50 8.50 8.00 8.25 7.50 8.25 8.07
+ Performance 1.00 8.00 8.00 7.25 7.50 8.25 8.00 7.25 7.75 7.50 7.71
+ Composition 1.00 8.50 8.50 8.00 7.75 8.75 8.25 8.25 8.00 8.50 8.29
+ Interpretation of the Music 1.00 8.75 8.25 8.00 7.50 8.75 8.50 7.75 8.25 8.50 8.29
+ Judges Total Program Component Score (factored) 40.82
+ Deductions: Falls -2.00 (2) -2.00
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 8 KOLYADA Mikhail OAR 9 74.36 33.75 42.61 -2.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 4Lz 13.60 -3.54 -3 -3 -3 -3 -3 -2 -2 -2 -3 10.06
+ 2 4T+COMBO 10.30 -4.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 6.30
+ 3 FSSp4 3.00 1.00 2 2 2 2 2 3 2 2 2 4.00
+ 4 1A* * 0.00 0.00 - - - - - - - - - 0.00
+ 5 CCSp3 2.80 0.79 2 1 2 1 1 3 2 2 1 3.59
+ 6 StSq4 3.90 1.40 2 2 2 2 2 2 2 3 2 5.30
+ 7 CCoSp4 3.50 1.00 2 2 2 2 2 3 2 2 1 4.50
+ 37.10 33.75
+ Program Components Factor
+ Skating Skills 1.00 8.75 8.50 8.00 9.25 9.00 9.25 8.75 8.25 8.75 8.75
+ Transitions 1.00 8.50 8.25 7.75 9.00 8.50 9.00 8.25 7.50 8.50 8.39
+ Performance 1.00 8.00 8.25 7.25 9.00 8.25 9.00 7.75 7.75 7.75 8.11
+ Composition 1.00 8.75 8.75 8.25 9.50 8.75 9.25 8.75 8.00 8.75 8.75
+ Interpretation of the Music 1.00 8.75 8.50 8.00 9.25 8.50 9.25 8.50 8.00 8.75 8.61
+ Judges Total Program Component Score (factored) 42.61
+ Deductions: Falls -2.00 (2) -2.00
+FSKXTEAM--------------QUAL0001MN--_77B 1.0 Report Created FRI 9 FEB 2018 11:33 Page 4 / 5
+ Gangneung Ice Arena Figure Skating
+ 강릉 아이스 아레나 피겨 스케이팅 / Patinage artistique
+ Palais des glaces de Gangneung
+ Team Event
+ 피겨 스케이팅 팀이벤트 / Épreuve par équipes
+ FRI 9 FEB 2018 Men Single Skating Short Program
+ 남자 싱글 스케이팅 쇼트 프로그램 / Patinage individuel hommes, programme court
+ Judges Details per Skater
+ 선수별 심판 세부채점 정보 / Notation détaillée des juges par patineur
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 9 FENTZ Paul GER 2 66.32 34.54 33.78 -2.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 4T 10.30 -4.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 6.30
+ 2 3A 8.50 -3.00 -3 -3 -3 -3 -3 -3 -3 -3 -3 5.50
+ 3 FCSp4 3.20 0.29 1 1 0 0 1 1 1 -1 0 3.49
+ 4 StSq3 3.30 0.50 1 1 1 1 1 1 1 1 0 3.80
+ 5 3Lz+3T 11.33 x -1.30 -1 -2 -2 -2 -2 -2 -1 -2 -2 10.03
+ 6 CSSp3 2.60 -0.09 0 0 -2 -1 0 0 0 0 -1 2.51
+ 7 CCoSp3 3.00 -0.09 -1 0 -1 0 0 0 0 0 -1 2.91
+ 42.23 34.54
+ Program Components Factor
+ Skating Skills 1.00 6.75 7.50 6.75 6.75 7.50 7.50 7.25 6.25 6.25 6.96
+ Transitions 1.00 6.50 7.25 6.75 6.25 7.25 6.75 7.00 5.75 5.50 6.61
+ Performance 1.00 6.00 7.00 6.25 6.25 6.75 7.25 6.50 6.00 5.75 6.39
+ Composition 1.00 6.75 7.50 7.00 6.50 7.50 7.25 7.25 6.00 6.75 7.00
+ Interpretation of the Music 1.00 6.75 7.25 7.00 6.50 7.00 7.25 6.75 6.50 6.25 6.82
+ Judges Total Program Component Score (factored) 33.78
+ Deductions: Falls -2.00 (2) -2.00
+ Total Total Total Program
+ NOC Starting Total
+ Rank Name Segment Element Component Score
+ Code Number Deductions
+ Score Score (factored)
+ 10 BESSEGHIER Chafik FRA 3 61.06 26.93 34.13 0.00
+ Base Scores
+ Info
+ # Executed Elements GOE J1 J2 J3 J4 J5 J6 J7 J8 J9 Ref.
+ Value of Panel
+ 1 3T+2T 5.60 -0.10 -1 0 0 0 1 0 0 0 -1 5.50
+ 2 2A 3.30 0.07 0 1 0 0 0 0 0 1 0 3.37
+ 3 FCSp3 2.80 0.03 0 -1 1 0 0 1 0 0 -1 2.83
+ 4 3Lz 6.60 x 0.50 0 1 0 0 1 1 1 1 1 7.10
+ 5 CCoSp2V 2.00 0.07 -1 0 0 0 1 0 0 1 0 2.07
+ 6 StSq2 2.60 0.57 0 0 2 1 2 1 2 2 0 3.17
+ 7 CSSp3 2.60 0.29 0 1 0 1 1 0 1 1 0 2.89
+ 25.50 26.93
+ Program Components Factor
+ Skating Skills 1.00 6.50 7.00 7.00 7.25 7.25 7.50 7.00 6.25 6.75 6.96
+ Transitions 1.00 6.00 7.00 6.50 7.00 7.00 7.00 6.50 5.50 5.50 6.50
+ Performance 1.00 6.25 6.75 6.75 7.00 7.25 7.25 6.50 6.50 6.00 6.71
+ Composition 1.00 6.75 7.25 7.00 7.25 7.75 7.25 7.25 6.00 6.00 6.96
+ Interpretation of the Music 1.00 6.75 7.00 7.25 7.50 7.75 7.25 6.75 6.50 5.75 7.00
+ Judges Total Program Component Score (factored) 34.13
+ Deductions: 0.00
+ Legend:
+ # Sequence number * Invalid element < Under-rotated jump x Credit for highlight distribution, base value multiplied by 1.1
+ GOE Grade of Execution Jx Judges (x=1-9) Ref. Referee
+FSKXTEAM--------------QUAL0001MN--_77B 1.0 Report Created FRI 9 FEB 2018 11:33 Page 5 / 5
+
