@@ -32,8 +32,8 @@ fo2.write("\n")
 
 
 for filename in find_ext("protocols/","txt"):
-    if filename.startswith("protocols/owg") != True:
-        continue
+    #if filename.startswith("protocols/gpf") != True:
+    #    continue
     filefields=filename.split("_")
     if len(filefields) < 2:
         continue
@@ -60,35 +60,24 @@ for filename in find_ext("protocols/","txt"):
     content = [x.strip() for x in content] 
     line_iter = iter(range(len(content)))
     for i in line_iter:
-        if content[i].startswith("Score"): # next line is skater
+        if re.sub(r'\W+', '', content[i]).startswith("Score"): # next line is skater
             #line=content[i+1].replace(" ",",")
-            line=content[i+1]
-            rank=line.split()[0]
+            line=content[i+1].split()
+            rank=line[0]
+            score=line[-5:]
+            nat=line[-6]
 
-            matches = re.findall(' [A-Z-]+ [A-Z-]+ ', line) # first LAST NATION style
-
-            if len(matches) > 0:
-                matches=matches[0].split()
-                nat=matches[-1].strip()
-                ln=matches[:-1] # don't know if anyone has multiple last names in ISU system...better safe than sorry
-                fn=re.findall(' [A-Za-z -]+ ', line)[0]
-                for lastnames in ln:
-                    fn=fn.replace(lastnames,"") # really stupid way of extracting first name
-                fn=fn.replace(nat,"").strip()
+            if line[-7].isupper(): # first LAST NATION style
+                ln=line[-7]
+                fn=line[1:-7]
 
             else:
-                matches = re.findall(' [A-Z-]+ ', line) # LAST first NATION style
-                ln=matches[:-1]
-                nat=matches[-1].strip()
-                fn=re.findall(' [A-Za-z -]+ ', line)[0]
-                for lastnames in ln:
-                    fn=fn.replace(lastnames,"") # really stupid way of extracting first name
-                fn=fn.replace(nat,"").strip()
+                ln=line[1]
+                fn=line[2:-6]
 
-            ln=" ".join(ln).strip()
+            fn=" ".join(fn)
+            score=",".join(score)
 
-            line=','.join(line.split()[-5:])
-            fo2.write(comp + "," + year + "," + str(discp) + "," + str(seg) + "," + fn + " " + ln + "," + nat + "," + rank + "," + line + ",")
             next(line_iter)
         elif content[i].startswith("1 "):
             #i+=1
@@ -115,6 +104,7 @@ for filename in find_ext("protocols/","txt"):
                 fo.write(elen + "," + eles + "," + lvl + "," + ",".join(str(k) for k in stuff) + "," + ",".join(line[1:]) + "\n")
 
         elif content[i].startswith("Program Components Factor"):
+            fo2.write(comp + "," + year + "," + str(discp) + "," + str(seg) + "," + fn + " " + ln + "," + nat + "," + rank + "," + score + ",")
             fo2.write(content[i-1].split(' ')[0]+",")
             i+=1
             for j in range(5):
