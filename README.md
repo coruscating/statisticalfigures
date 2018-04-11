@@ -76,8 +76,9 @@ wget -i pdflist
 
 5. Run `protocoltodata.py` to generate `agg_elems.csv` and `agg_progs.csv`.
 
-## Competition abbreviation
+## Competition Abbreviations
 
+```
 +-------------------+-----------+
 |    Competition    | Shortcode |
 +-------------------+-----------+
@@ -96,12 +97,13 @@ wget -i pdflist
 | Nebelhorn         | csger     |
 | Junior Worlds     | wjc       |
 +-------------------+-----------+
+```
 
 ## Notes
 
 - Olympics, GPF, and NHK Trophy PDFs were renamed by hand due to different naming conventions.
 
-## To-do/Known problems
+## To-Do/Known Problems
 
 - Do previous seasons
 - Add Juniors, Pairs and Dance
