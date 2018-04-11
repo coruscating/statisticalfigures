@@ -5,15 +5,16 @@ import re
 from os import path
 from glob import glob  
 
-# This script takes all text files in a directory and outputs two aggregated, agg_elems.csv and agg_scores.csv.
+# This script takes all text files in a directory and outputs two aggregated, agg_elems.csv and agg_progs.csv.
 
+dir="season1718/"
 
 def find_ext(dr, ext): # return list of files of a particular extension
     return glob(path.join(dr,"*.{}".format(ext)))
 
 
 fo=open("agg_elems.csv", "w")
-fo2=open("agg_scores.csv", "w")
+fo2=open("agg_progs.csv", "w")
 
 
 fo.write("comp,year,discp,seg,skname,nat,elen,eles,lvl,bl,dg,ur,ue,we,iv,ele,bv,goe,")
@@ -31,7 +32,7 @@ for i in range(5):
 fo2.write("\n")
 
 
-for filename in find_ext("protocols/","txt"):
+for filename in find_ext("protocols/"+dir,"txt"):
     #if filename.startswith("protocols/gpf") != True:
     #    continue
     filefields=filename.split("_")
@@ -41,7 +42,7 @@ for filename in find_ext("protocols/","txt"):
         continue
 
     # get comp and year
-    firstfield=filefields[0].split("/")[1]
+    firstfield=filefields[0].split("/")[2]
     comp = firstfield.rstrip('0123456789')
     year = firstfield[len(comp):]
 
@@ -53,6 +54,8 @@ for filename in find_ext("protocols/","txt"):
         seg=0
     else:
         seg=1
+
+    elems=[[7,13],[7,12]] # number of elements
 
 
     with open(filename) as f:
@@ -81,15 +84,17 @@ for filename in find_ext("protocols/","txt"):
             next(line_iter)
         elif content[i].startswith("1 "):
             #i+=1
-            for j in range(7): # elements
-               
+            for j in range(elems[discp][seg]):
                 line=content[i+j].replace(" ",",").split(",")
                 elen=line[0]
                 features=["x","<<","<","!","e","*"] # important that << before < so it's not matched twice
                 stuff=[0,0,0,0,0,0]
                 for f in range(len(features)):
-                    if (features[f] in line):
+                    if (features[f] in line): 
                         line.remove(features[f])
+                        stuff[f]=1
+                    elif (features[f].upper() in line):
+                        line.remove(features[f].upper())
                         stuff[f]=1
                 # make simple element
                 eles=line[1]

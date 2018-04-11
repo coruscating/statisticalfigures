@@ -2,7 +2,7 @@
 
 # Run this before running protocoltodata.py to generate text files from PDF protocols
 
-for filename in protocols/*.pdf; do
+for filename in protocols/season1718/*.pdf; do
 
 filehandle=`echo $filename | awk -F. '{ print $1 ; }'`
 
