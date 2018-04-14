@@ -1,0 +1,1049 @@
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 1 TEN Denis KAZ 19 94.91 50.01 44.90 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 1.00 1 2 3 -1 2 0 0 - - 11.30
+ 2 3Lz+3T 10.30 1.40 2 2 2 2 2 1 2 - - 11.70
+ 3 CCSp4 3.20 0.50 1 1 -1 1 1 1 2 - - 3.70
+ 4 3A 9.35 x 0.20 0 0 2 -1 0 1 0 - - 9.55
+ 5 StSq4 3.90 1.96 3 3 2 -1 3 3 3 - - 5.86
+ 6 FSSp4 3.00 0.70 1 1 2 1 1 2 2 - - 3.70
+ 7 CCoSp4 3.50 0.70 1 2 2 1 1 2 1 - - 4.20
+ 43.55 50.01
+ Program Components Factor
+ Skating Skills 1.00 8.75 9.00 9.00 8.25 9.00 9.25 9.50 - - 9.00
+ Transitions / Linking Footwork / Movement 1.00 8.50 8.50 8.75 7.50 8.75 8.75 8.75 - - 8.65
+ Performance / Execution 1.00 8.75 9.25 9.00 8.50 9.25 9.25 9.75 - - 9.10
+ Choreography / Composition 1.00 8.75 9.00 9.00 8.50 9.00 9.25 9.75 - - 9.00
+ Interpretation 1.00 8.50 9.25 9.25 8.75 9.25 9.25 9.75 - - 9.15
+ Judges Total Program Component Score (factored) 44.90
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 2 TANAKA Keiji JPN 27 89.05 48.80 40.25 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4S 10.50 0.40 0 0 1 1 0 1 0 - - 10.90
+ 2 3A 8.50 2.00 1 2 2 2 2 2 2 - - 10.50
+ 3 CSSp4 3.00 0.80 1 2 2 0 2 2 1 - - 3.80
+ 4 FCSp4 3.20 0.50 1 1 1 1 0 1 1 - - 3.70
+ 5 3F+3T 10.56 x 0.84 1 1 2 1 0 1 2 - - 11.40
+ 6 StSq3 3.30 0.90 2 2 1 2 1 2 2 - - 4.20
+ 7 CCoSp4 3.50 0.80 2 2 1 1 1 2 2 - - 4.30
+ 42.56 48.80
+ Program Components Factor
+ Skating Skills 1.00 8.25 8.25 8.25 7.75 7.50 8.00 8.50 - - 8.10
+ Transitions / Linking Footwork / Movement 1.00 8.00 8.25 8.00 7.25 7.50 7.75 8.75 - - 7.90
+ Performance / Execution 1.00 8.00 8.50 8.50 7.50 7.75 8.00 8.50 - - 8.15
+ Choreography / Composition 1.00 8.00 8.50 8.00 7.50 7.50 8.00 8.75 - - 8.00
+ Interpretation 1.00 7.75 8.50 8.25 7.75 7.50 8.25 9.00 - - 8.10
+ Judges Total Program Component Score (factored) 40.25
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 1/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 3 DMITRIEV Artur RUS 20 87.18 49.03 38.15 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T+3T 14.60 -0.24 0 -1 2 0 -1 0 0 - - 14.36
+ 2 FCSp4 3.20 0.80 1 1 2 2 0 2 2 - - 4.00
+ 3 CSSp4 3.00 0.50 1 1 1 1 0 1 1 - - 3.50
+ 4 StSq4 3.90 0.70 2 1 1 1 0 1 1 - - 4.60
+ 5 3Lz 6.60 x 1.12 2 2 1 2 0 1 2 - - 7.72
+ 6 3A 9.35 x 1.20 2 1 2 1 0 1 1 - - 10.55
+ 7 CCoSp4 3.50 0.80 1 2 2 1 1 2 2 - - 4.30
+ 44.15 49.03
+ Program Components Factor
+ Skating Skills 1.00 8.00 7.50 8.50 8.00 6.50 7.25 7.50 - - 7.65
+ Transitions / Linking Footwork / Movement 1.00 7.50 6.50 8.00 7.75 6.25 6.75 7.75 - - 7.25
+ Performance / Execution 1.00 8.25 7.00 8.25 8.00 6.50 7.25 8.50 - - 7.75
+ Choreography / Composition 1.00 7.75 7.50 8.50 7.75 6.25 7.25 8.50 - - 7.75
+ Interpretation 1.00 8.00 7.25 8.25 8.00 6.25 7.25 8.75 - - 7.75
+ Judges Total Program Component Score (factored) 38.15
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 4 LAZUKIN Andrei RUS 2 84.74 45.74 39.00 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 0.40 1 0 2 1 0 0 -1 - - 10.70
+ 2 3A 8.50 -0.20 0 0 1 -1 0 0 -1 - - 8.30
+ 3 FCSp3 2.80 0.90 2 2 2 1 2 1 2 - - 3.70
+ 4 CSSp4 3.00 0.50 1 1 1 1 0 1 1 - - 3.50
+ 5 3F+3T 10.56 x 0.98 0 2 2 2 1 1 1 - - 11.54
+ 6 CCoSp4 3.50 0.60 1 2 1 2 1 1 1 - - 4.10
+ 7 StSq3 3.30 0.60 1 2 1 1 1 1 2 - - 3.90
+ 41.96 45.74
+ Program Components Factor
+ Skating Skills 1.00 8.25 8.25 7.75 8.25 7.75 7.25 8.00 - - 8.00
+ Transitions / Linking Footwork / Movement 1.00 7.75 8.00 7.50 8.00 7.25 7.00 7.00 - - 7.50
+ Performance / Execution 1.00 8.00 7.75 7.75 8.00 7.50 7.25 7.75 - - 7.75
+ Choreography / Composition 1.00 8.25 8.00 7.50 8.00 7.75 7.25 8.25 - - 7.90
+ Interpretation 1.00 8.00 8.00 7.75 8.25 7.50 7.25 8.00 - - 7.85
+ Judges Total Program Component Score (factored) 39.00
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 2/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 5 RIGHINI Ivan ITA 15 82.28 43.93 38.35 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 0.60 0 1 1 0 1 1 0 - - 10.90
+ 2 2A 3.30 0.50 1 2 1 1 1 0 1 - - 3.80
+ 3 FCSp4 3.20 0.50 1 1 1 1 0 1 1 - - 3.70
+ 4 3Lz+3T 11.33 x 1.40 2 3 2 2 2 1 2 - - 12.73
+ 5 StSq4 3.90 1.40 2 2 2 2 2 2 2 - - 5.30
+ 6 CSSp4 3.00 0.50 1 1 1 -1 1 1 1 - - 3.50
+ 7 CCoSp4 3.50 0.50 1 1 1 1 1 1 1 - - 4.00
+ 38.53 43.93
+ Program Components Factor
+ Skating Skills 1.00 7.50 7.50 7.50 7.25 8.25 7.75 7.50 - - 7.55
+ Transitions / Linking Footwork / Movement 1.00 7.50 7.25 7.00 7.00 8.00 7.50 7.25 - - 7.30
+ Performance / Execution 1.00 7.75 8.00 7.50 7.50 8.50 8.00 7.75 - - 7.80
+ Choreography / Composition 1.00 7.75 7.75 7.25 7.25 8.25 7.75 8.25 - - 7.75
+ Interpretation 1.00 8.00 8.00 7.50 7.50 8.50 7.75 8.50 - - 7.95
+ Judges Total Program Component Score (factored) 38.35
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 6 MAJOROV Alexander SWE 35 81.01 41.91 39.10 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 1.80 1 0 2 2 2 2 2 - - 12.10
+ 2 3A 8.50 2.00 1 2 2 2 2 2 2 - - 10.50
+ 3 FCSp4 3.20 0.60 1 2 1 1 1 1 2 - - 3.80
+ 4 3T+COMBO 4.73 x -2.10 -3 -3 -3 -3 -3 -3 -3 - - 2.63
+ 5 CSSp4 3.00 0.50 1 1 1 1 0 2 1 - - 3.50
+ 6 StSq4 3.90 0.98 3 1 1 2 1 2 1 - - 4.88
+ 7 CCoSp4 3.50 1.00 1 2 2 2 2 2 2 - - 4.50
+ 37.13 41.91
+ Program Components Factor
+ Skating Skills 1.00 7.75 7.75 7.75 8.25 8.25 7.50 7.50 - - 7.80
+ Transitions / Linking Footwork / Movement 1.00 7.50 7.25 7.75 8.00 8.25 7.00 7.00 - - 7.50
+ Performance / Execution 1.00 8.00 7.50 8.00 8.50 8.50 7.75 7.25 - - 7.95
+ Choreography / Composition 1.00 7.75 8.00 8.25 8.50 8.00 7.50 7.25 - - 7.90
+ Interpretation 1.00 8.00 7.75 8.25 8.75 8.25 7.50 7.50 - - 7.95
+ Judges Total Program Component Score (factored) 39.10
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 3/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 7 SHULEPOV Anton RUS 25 76.13 41.48 35.65 -1.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3F 5.30 1.40 2 2 2 2 1 2 2 - - 6.70
+ 2 CCoSp4 3.50 0.70 1 2 2 1 1 1 2 - - 4.20
+ 3 3A 9.35 x 1.60 2 2 2 1 0 1 2 - - 10.95
+ 4 3Lz+3T 11.33 x 0.28 0 0 1 1 0 0 1 - - 11.61
+ 5 FCSp4 3.20 0.40 1 1 0 1 0 1 2 - - 3.60
+ 6 StSq3 3.30 -1.68 -3 -2 -3 -1 -3 -3 -1 - - 1.62
+ 7 CSSp3 2.60 0.20 0 -1 1 0 0 1 1 - - 2.80
+ 38.58 41.48
+ Program Components Factor
+ Skating Skills 1.00 7.50 7.50 7.50 6.75 6.75 6.75 7.75 - - 7.20
+ Transitions / Linking Footwork / Movement 1.00 7.25 7.00 7.25 6.25 6.50 6.50 8.25 - - 6.90
+ Performance / Execution 1.00 7.25 7.25 7.75 6.50 6.75 6.75 8.00 - - 7.15
+ Choreography / Composition 1.00 7.50 7.50 7.50 6.50 6.75 6.75 8.50 - - 7.20
+ Interpretation 1.00 7.50 7.50 7.75 6.50 6.50 6.75 8.50 - - 7.20
+ Judges Total Program Component Score (factored) 35.65
+ Deductions: Falls: -1.00 -1.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 8 BREZINA Michal CZE 30 75.57 35.72 39.85 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2S* * 0.00 0.00 - - - - - - - - - 0.00
+ 2 3A 8.50 2.00 1 2 2 2 2 2 2 - - 10.50
+ 3 CCSp4 3.20 0.70 1 2 1 2 1 1 2 - - 3.90
+ 4 3F+2T 7.26 x 0.70 1 1 1 1 0 1 1 - - 7.96
+ 5 StSq4 3.90 1.26 2 2 1 2 2 3 1 - - 5.16
+ 6 FSSp4 3.00 0.90 2 1 2 2 1 2 2 - - 3.90
+ 7 CCoSp4 3.50 0.80 2 2 1 2 1 2 1 - - 4.30
+ 29.36 35.72
+ Program Components Factor
+ Skating Skills 1.00 7.50 8.25 7.50 7.75 8.25 8.25 8.50 - - 8.00
+ Transitions / Linking Footwork / Movement 1.00 7.25 8.00 7.25 7.50 8.00 8.00 8.00 - - 7.75
+ Performance / Execution 1.00 7.50 8.25 7.75 8.00 8.00 8.25 7.75 - - 7.95
+ Choreography / Composition 1.00 7.75 8.50 7.75 7.75 8.25 8.25 8.50 - - 8.10
+ Interpretation 1.00 7.25 8.50 7.50 7.75 8.00 8.50 8.50 - - 8.05
+ Judges Total Program Component Score (factored) 39.85
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 4/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 9 HINO Ryuju JPN 6 75.23 40.53 34.70 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+3T 10.30 0.98 1 2 2 2 1 1 1 - - 11.28
+ 2 3A 8.50 1.60 1 2 -2 2 1 2 2 - - 10.10
+ 3 FCSp3 2.80 0.40 1 1 1 1 0 0 1 - - 3.20
+ 4 3Lo 5.61 x 0.14 1 0 0 0 0 1 -1 - - 5.75
+ 5 CSSp4 3.00 0.50 1 1 1 1 1 1 1 - - 3.50
+ 6 StSq3 3.30 0.50 1 1 1 2 0 1 1 - - 3.80
+ 7 CCoSp3V 2.50 0.40 0 1 1 1 0 1 1 - - 2.90
+ 36.01 40.53
+ Program Components Factor
+ Skating Skills 1.00 7.25 7.50 6.25 8.50 6.50 7.00 7.50 - - 7.15
+ Transitions / Linking Footwork / Movement 1.00 6.75 6.75 6.00 8.25 6.00 6.75 7.00 - - 6.65
+ Performance / Execution 1.00 6.75 6.50 6.50 8.50 6.25 7.25 7.75 - - 6.95
+ Choreography / Composition 1.00 7.25 6.75 6.25 8.25 6.25 7.25 7.25 - - 6.95
+ Interpretation 1.00 7.25 6.75 6.25 8.50 6.00 7.00 7.75 - - 7.00
+ Judges Total Program Component Score (factored) 34.70
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 10 ZANDRON Maurizio ITA 11 69.71 37.61 32.10 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3A 8.50 -3.00 -3 -3 -2 -3 -3 -3 -3 - - 5.50
+ 2 3Lz+3T 10.30 0.00 0 0 0 0 -1 0 0 - - 10.30
+ 3 CCSp4 3.20 0.40 1 1 1 1 0 0 2 - - 3.60
+ 4 3Lo 5.61 x 0.28 1 1 1 0 0 0 0 - - 5.89
+ 5 CCoSp4 3.50 0.50 1 1 1 1 0 1 1 - - 4.00
+ 6 StSq4 3.90 1.12 2 2 2 1 0 1 2 - - 5.02
+ 7 FSSp4 3.00 0.30 1 1 0 0 0 1 1 - - 3.30
+ 38.01 37.61
+ Program Components Factor
+ Skating Skills 1.00 6.50 6.50 6.25 6.25 6.25 6.50 6.75 - - 6.40
+ Transitions / Linking Footwork / Movement 1.00 6.50 6.25 6.00 5.75 6.00 6.00 7.00 - - 6.15
+ Performance / Execution 1.00 6.25 7.00 6.00 6.00 6.50 6.50 6.75 - - 6.40
+ Choreography / Composition 1.00 6.50 7.00 6.25 6.25 6.25 6.25 7.25 - - 6.45
+ Interpretation 1.00 6.75 7.00 6.50 5.75 6.50 6.75 7.75 - - 6.70
+ Judges Total Program Component Score (factored) 32.10
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 5/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 11 RAKIMGALIEV Abzal KAZ 3 68.25 36.05 32.20 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3F+3T 9.60 -0.70 -1 -1 -1 1 -1 -1 -1 - - 8.90
+ 2 3A 8.50 -1.00 -1 -1 0 -1 -1 -1 -1 - - 7.50
+ 3 CCoSp4 3.50 0.60 1 2 1 1 1 1 2 - - 4.10
+ 4 3Lo 5.61 x 0.14 0 1 1 0 0 0 0 - - 5.75
+ 5 StSq3 3.30 0.30 1 1 0 0 0 1 1 - - 3.60
+ 6 FCSp3 2.80 0.50 1 1 1 1 1 1 1 - - 3.30
+ 7 CSSp3 2.60 0.30 0 0 1 0 1 1 2 - - 2.90
+ 35.91 36.05
+ Program Components Factor
+ Skating Skills 1.00 6.25 6.25 5.50 7.25 6.25 6.75 7.25 - - 6.55
+ Transitions / Linking Footwork / Movement 1.00 6.00 5.75 5.25 6.75 6.00 6.00 6.75 - - 6.10
+ Performance / Execution 1.00 6.50 6.25 5.25 7.00 6.25 6.75 7.25 - - 6.55
+ Choreography / Composition 1.00 6.25 6.50 5.50 7.00 6.25 6.50 7.50 - - 6.50
+ Interpretation 1.00 6.50 6.50 5.00 6.75 6.00 6.75 7.50 - - 6.50
+ Judges Total Program Component Score (factored) 32.20
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 12 PAVLOV Ivan UKR 1 67.27 35.12 32.15 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3A 8.50 1.00 1 1 1 1 1 0 1 - - 9.50
+ 2 3Lz+3T 10.30 0.42 1 1 0 1 0 0 1 - - 10.72
+ 3 FCSp4 3.20 0.50 1 1 0 1 1 1 1 - - 3.70
+ 4 StSq3 3.30 0.50 1 1 1 1 0 1 1 - - 3.80
+ 5 1F* ! 0.00 x 0.00 - - - - - - - - - 0.00
+ 6 CSSp4 3.00 0.50 1 1 1 0 1 1 1 - - 3.50
+ 7 CCoSp4 3.50 0.40 1 1 0 1 1 1 0 - - 3.90
+ 31.80 35.12
+ Program Components Factor
+ Skating Skills 1.00 6.75 6.50 5.50 5.75 6.75 6.50 7.25 - - 6.45
+ Transitions / Linking Footwork / Movement 1.00 6.50 6.25 5.00 5.50 6.50 5.75 7.50 - - 6.10
+ Performance / Execution 1.00 7.00 6.50 5.25 5.50 6.75 6.75 7.00 - - 6.50
+ Choreography / Composition 1.00 7.00 6.75 5.25 5.75 6.50 6.50 7.75 - - 6.50
+ Interpretation 1.00 7.00 6.75 5.50 6.00 6.50 6.75 7.25 - - 6.60
+ Judges Total Program Component Score (factored) 32.15
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 6/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 13 GUAN Yuhang CHN 31 67.16 34.71 32.45 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 -1.68 -2 -1 -1 -2 -1 -1 -2 - - 8.62
+ 2 3Lz+2T 7.30 0.56 1 1 2 0 0 0 2 - - 7.86
+ 3 CSSp3 2.60 0.40 1 0 1 1 0 1 1 - - 3.00
+ 4 FCSp4 3.20 0.00 0 0 1 0 0 0 0 - - 3.20
+ 5 2A 3.63 x 0.70 2 1 1 2 1 1 2 - - 4.33
+ 6 StSq3 3.30 0.40 1 0 1 1 0 1 1 - - 3.70
+ 7 CCoSp4 3.50 0.50 2 1 1 1 0 1 1 - - 4.00
+ 33.83 34.71
+ Program Components Factor
+ Skating Skills 1.00 6.75 6.00 7.75 7.25 6.25 6.25 7.25 - - 6.75
+ Transitions / Linking Footwork / Movement 1.00 6.25 5.00 7.50 6.75 6.00 5.75 6.75 - - 6.30
+ Performance / Execution 1.00 6.50 5.25 7.50 6.75 6.00 6.50 7.00 - - 6.55
+ Choreography / Composition 1.00 6.25 5.25 7.50 6.75 6.25 6.50 6.50 - - 6.45
+ Interpretation 1.00 6.50 5.00 7.75 6.50 5.75 6.50 6.75 - - 6.40
+ Judges Total Program Component Score (factored) 32.45
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 14 KIM Jin Seo KOR 26 66.81 34.31 32.50 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2A 3.30 -1.00 -2 -2 -2 -2 -2 -2 -2 - - 2.30
+ 2 3Lz+3T 10.30 0.70 1 1 1 0 1 1 2 - - 11.00
+ 3 CCoSp4 3.50 0.50 1 1 1 1 1 1 2 - - 4.00
+ 4 3Lo 5.61 x 0.70 1 1 1 1 1 1 0 - - 6.31
+ 5 CSSp4 3.00 0.40 0 1 1 1 0 1 1 - - 3.40
+ 6 StSq3 3.30 0.50 1 1 1 1 0 2 1 - - 3.80
+ 7 FCSp4 3.20 0.30 1 1 0 0 0 1 1 - - 3.50
+ 32.21 34.31
+ Program Components Factor
+ Skating Skills 1.00 6.50 6.25 6.25 6.00 6.50 6.75 7.75 - - 6.45
+ Transitions / Linking Footwork / Movement 1.00 6.00 6.50 6.00 6.25 6.50 6.75 7.50 - - 6.40
+ Performance / Execution 1.00 6.25 6.50 6.25 6.50 6.25 7.00 7.25 - - 6.50
+ Choreography / Composition 1.00 6.25 6.50 6.50 6.25 6.25 7.00 8.00 - - 6.50
+ Interpretation 1.00 6.50 6.50 6.25 6.75 6.25 7.25 8.00 - - 6.65
+ Judges Total Program Component Score (factored) 32.50
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 7/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 15 PONSART Romain FRA 13 66.25 31.85 34.40 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 4T 10.30 -3.68 -3 -3 -3 -2 -2 -3 -3 - - 6.62
+ 2 3A 8.50 1.60 2 2 2 1 0 1 2 - - 10.10
+ 3 FCSp4 3.20 0.50 2 1 1 1 0 1 1 - - 3.70
+ 4 2Lz+2T* * 2.31 x -0.90 -3 -3 -3 -3 -3 -3 -3 - - 1.41
+ 5 CSSp2 2.30 -0.18 -1 -1 -1 0 0 -1 1 - - 2.12
+ 6 StSq3 3.30 0.60 2 1 1 1 1 1 2 - - 3.90
+ 7 CCoSp4 3.50 0.50 0 1 1 1 1 1 2 - - 4.00
+ 33.41 31.85
+ Program Components Factor
+ Skating Skills 1.00 7.25 7.00 6.00 7.50 6.75 7.25 8.25 - - 7.15
+ Transitions / Linking Footwork / Movement 1.00 7.00 6.00 5.75 6.75 6.50 7.00 7.00 - - 6.65
+ Performance / Execution 1.00 6.75 6.50 5.75 7.00 6.75 7.00 7.75 - - 6.80
+ Choreography / Composition 1.00 7.00 6.25 6.00 7.00 6.50 7.00 8.25 - - 6.75
+ Interpretation 1.00 7.25 6.50 6.25 7.50 6.75 7.25 8.50 - - 7.05
+ Judges Total Program Component Score (factored) 34.40
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 16 LEE June Hyoung KOR 33 65.08 33.28 32.80 -1.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3A 8.50 -2.00 -2 -2 -2 -2 -2 -2 -2 - - 6.50
+ 2 3Lo< < 3.60 -2.10 -3 -3 -3 -3 -3 -3 -3 - - 1.50
+ 3 FCSp4 3.20 0.30 0 1 0 1 0 1 1 - - 3.50
+ 4 3F+3T 10.56 x -0.70 -1 -1 -1 -1 -1 0 -1 - - 9.86
+ 5 CSSp3 2.60 0.30 1 0 0 0 1 1 1 - - 2.90
+ 6 StSq4 3.90 1.12 2 2 0 1 1 2 2 - - 5.02
+ 7 CCoSp4 3.50 0.50 1 1 1 1 2 1 1 - - 4.00
+ 35.86 33.28
+ Program Components Factor
+ Skating Skills 1.00 6.75 6.50 5.75 6.75 6.50 7.00 6.50 - - 6.60
+ Transitions / Linking Footwork / Movement 1.00 6.50 6.00 5.25 6.50 6.25 6.75 6.75 - - 6.40
+ Performance / Execution 1.00 6.25 6.25 5.50 6.75 6.50 7.00 6.50 - - 6.45
+ Choreography / Composition 1.00 6.50 6.75 5.50 6.50 6.50 7.25 7.00 - - 6.65
+ Interpretation 1.00 6.75 6.75 5.25 6.50 6.50 7.25 7.00 - - 6.70
+ Judges Total Program Component Score (factored) 32.80
+ Deductions: Falls: -1.00 -1.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 8/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 17 TESSON Adrien FRA 32 63.68 31.13 32.55 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lo 5.10 -1.68 -3 -2 -2 -2 -2 -3 -3 - - 3.42
+ 2 3A 8.50 -1.00 -1 -2 -1 -1 -1 -1 -1 - - 7.50
+ 3 FSSp3 2.60 0.50 1 1 1 1 0 1 2 - - 3.10
+ 4 StSq3 3.30 0.50 2 1 1 1 0 0 2 - - 3.80
+ 5 3Lz+2T 8.03 x -1.12 -2 -2 -1 -1 -2 -1 -2 - - 6.91
+ 6 CCoSp4 3.50 0.40 1 1 0 1 0 1 2 - - 3.90
+ 7 CCSp3 2.80 -0.30 -1 -1 -1 -1 0 -1 -1 - - 2.50
+ 33.83 31.13
+ Program Components Factor
+ Skating Skills 1.00 7.00 6.25 6.25 6.25 6.75 6.25 7.75 - - 6.50
+ Transitions / Linking Footwork / Movement 1.00 7.00 6.25 6.00 6.25 6.25 5.75 7.25 - - 6.35
+ Performance / Execution 1.00 6.75 6.25 6.25 6.50 6.50 6.25 7.00 - - 6.45
+ Choreography / Composition 1.00 7.25 6.50 6.50 6.25 6.50 6.25 7.75 - - 6.60
+ Interpretation 1.00 7.25 6.50 6.25 6.50 6.75 6.25 8.00 - - 6.65
+ Judges Total Program Component Score (factored) 32.55
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 18 HOCQUAUX Simon FRA 34 59.15 28.05 31.10 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3A< < 5.90 -3.00 -3 -3 -3 -3 -3 -3 -3 - - 2.90
+ 2 2F+3T 6.20 0.42 1 0 1 1 0 0 1 - - 6.62
+ 3 FCSp3 2.80 -0.06 0 0 0 -1 -1 0 1 - - 2.74
+ 4 3Lo 5.61 x -1.12 -1 -2 -3 -1 -2 -1 -2 - - 4.49
+ 5 CSSp4 3.00 0.50 1 1 1 1 0 1 1 - - 3.50
+ 6 StSq3 3.30 0.50 1 1 1 1 0 1 1 - - 3.80
+ 7 CCoSp4 3.50 0.50 1 1 1 1 0 1 1 - - 4.00
+ 30.31 28.05
+ Program Components Factor
+ Skating Skills 1.00 6.75 5.50 6.00 6.25 6.00 5.75 7.75 - - 6.15
+ Transitions / Linking Footwork / Movement 1.00 6.50 6.00 5.75 6.50 5.50 5.50 7.00 - - 6.05
+ Performance / Execution 1.00 6.50 6.00 5.75 6.75 5.75 6.00 6.75 - - 6.20
+ Choreography / Composition 1.00 7.00 6.50 6.00 6.25 5.75 6.00 7.50 - - 6.35
+ Interpretation 1.00 6.75 6.25 6.25 6.50 5.75 6.00 7.50 - - 6.35
+ Judges Total Program Component Score (factored) 31.10
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 9/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 19 KENNES Thomas NED 8 59.04 30.24 28.80 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+2T 7.30 0.70 1 1 1 1 1 0 1 - - 8.00
+ 2 CCoSp4 3.50 0.50 1 1 1 1 1 1 1 - - 4.00
+ 3 FCSp3 2.80 0.20 1 1 0 1 0 0 0 - - 3.00
+ 4 StSq3 3.30 0.40 1 1 1 1 0 1 0 - - 3.70
+ 5 3Lo 5.61 x -1.40 -2 -2 -2 -2 -2 -3 -2 - - 4.21
+ 6 2A 3.63 x 0.50 2 1 1 1 0 1 1 - - 4.13
+ 7 CSSp4 3.00 0.20 1 0 1 0 0 1 0 - - 3.20
+ 29.14 30.24
+ Program Components Factor
+ Skating Skills 1.00 6.25 5.00 5.25 6.75 5.50 6.00 5.50 - - 5.70
+ Transitions / Linking Footwork / Movement 1.00 5.75 5.25 5.00 6.50 5.25 5.75 5.00 - - 5.40
+ Performance / Execution 1.00 6.25 5.50 5.25 6.75 5.50 6.25 5.75 - - 5.85
+ Choreography / Composition 1.00 6.25 5.75 5.50 6.50 5.50 6.00 5.75 - - 5.85
+ Interpretation 1.00 6.25 5.75 5.25 6.75 5.50 6.25 6.25 - - 6.00
+ Judges Total Program Component Score (factored) 28.80
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 20 NEUMAN Michael SVK 16 58.24 30.79 27.45 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+3T ! 10.30 -1.26 -2 -2 -1 -2 -2 -2 -1 - - 9.04
+ 2 2A 3.30 0.10 0 1 1 0 0 0 0 - - 3.40
+ 3 FCSp3 2.80 0.00 0 0 0 -1 0 0 0 - - 2.80
+ 4 3F 5.83 x -0.42 0 -1 0 -1 0 -2 -1 - - 5.41
+ 5 StSq3 3.30 0.30 1 1 0 0 0 1 1 - - 3.60
+ 6 CCoSp4 3.50 0.10 1 0 0 0 0 0 1 - - 3.60
+ 7 CSSp4 3.00 -0.06 -1 0 1 0 0 0 -1 - - 2.94
+ 32.03 30.79
+ Program Components Factor
+ Skating Skills 1.00 5.75 5.25 5.00 6.00 5.50 5.75 5.25 - - 5.50
+ Transitions / Linking Footwork / Movement 1.00 5.25 5.00 4.75 5.50 5.25 5.25 5.50 - - 5.25
+ Performance / Execution 1.00 5.50 5.25 4.75 6.00 5.50 5.50 5.75 - - 5.50
+ Choreography / Composition 1.00 5.75 5.50 5.25 5.75 5.50 5.50 5.50 - - 5.55
+ Interpretation 1.00 5.75 5.50 4.75 5.75 5.50 5.75 6.00 - - 5.65
+ Judges Total Program Component Score (factored) 27.45
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 10/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 21 TSAO Chih-I TPE 9 58.13 29.53 28.60 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3A 8.50 -3.00 -3 -3 -2 -3 -3 -3 -3 - - 5.50
+ 2 2F+3T 6.20 -1.40 -2 -2 -2 -2 -2 -2 -2 - - 4.80
+ 3 CCSp4 3.20 0.50 1 2 1 0 0 1 2 - - 3.70
+ 4 3Lo 5.61 x -0.98 -1 -2 -3 -2 -1 0 -1 - - 4.63
+ 5 FSSp4 3.00 0.40 1 1 1 0 0 2 1 - - 3.40
+ 6 StSq3 3.30 0.50 1 1 1 1 0 1 1 - - 3.80
+ 7 CCoSp3 3.00 0.70 2 2 1 1 1 1 2 - - 3.70
+ 32.81 29.53
+ Program Components Factor
+ Skating Skills 1.00 6.25 5.50 5.75 5.50 5.00 6.25 5.50 - - 5.70
+ Transitions / Linking Footwork / Movement 1.00 6.25 5.50 5.50 5.50 4.50 5.75 5.25 - - 5.50
+ Performance / Execution 1.00 5.75 5.75 5.25 6.00 4.75 6.25 5.25 - - 5.60
+ Choreography / Composition 1.00 6.25 6.00 5.75 5.50 4.75 6.00 6.25 - - 5.90
+ Interpretation 1.00 6.00 5.75 5.50 6.00 5.00 6.25 6.25 - - 5.90
+ Judges Total Program Component Score (factored) 28.60
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 22 SPIEGL Ondrej SWE 10 58.02 27.22 31.80 -1.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2A 3.30 0.30 0 1 1 0 1 0 1 - - 3.60
+ 2 3Lz< < 4.20 -2.10 -3 -3 -3 -3 -3 -3 -3 - - 2.10
+ 3 CCoSp4 3.50 0.90 2 2 2 2 1 1 2 - - 4.40
+ 4 3T+2T 5.60 0.28 1 0 0 1 1 0 0 - - 5.88
+ 5 CSSp4 3.00 0.14 -1 -1 1 1 0 1 0 - - 3.14
+ 6 StSq3 3.30 0.90 2 2 2 2 1 1 2 - - 4.20
+ 7 FCSp4 3.20 0.70 2 2 1 1 1 1 2 - - 3.90
+ 26.10 27.22
+ Program Components Factor
+ Skating Skills 1.00 6.25 5.50 5.75 6.25 6.25 6.00 6.75 - - 6.10
+ Transitions / Linking Footwork / Movement 1.00 6.00 6.00 5.50 6.75 6.00 5.75 7.25 - - 6.10
+ Performance / Execution 1.00 6.00 6.50 5.75 7.00 6.25 6.50 6.75 - - 6.40
+ Choreography / Composition 1.00 6.00 6.50 6.00 7.00 6.50 6.25 7.75 - - 6.45
+ Interpretation 1.00 6.50 7.00 6.00 7.50 6.25 6.50 7.50 - - 6.75
+ Judges Total Program Component Score (factored) 31.80
+ Deductions: Falls: -1.00 -1.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 11/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 23 KAWAHARA Sei JPN 18 57.93 27.08 30.85 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 1A* * 0.00 0.00 - - - - - - - - - 0.00
+ 2 2Lo+3T 6.10 0.14 1 1 0 0 0 0 0 - - 6.24
+ 3 FCSp4 3.20 0.20 0 1 1 0 0 1 0 - - 3.40
+ 4 3Lz 6.60 x -1.40 -2 -2 -2 -2 -2 -2 -2 - - 5.20
+ 5 CCoSp4 3.50 0.50 1 1 1 1 0 1 2 - - 4.00
+ 6 StSq4 3.90 0.84 1 2 1 1 1 2 1 - - 4.74
+ 7 CSSp4 3.00 0.50 1 1 1 1 1 1 1 - - 3.50
+ 26.30 27.08
+ Program Components Factor
+ Skating Skills 1.00 6.50 6.50 5.75 5.75 6.25 7.50 6.50 - - 6.30
+ Transitions / Linking Footwork / Movement 1.00 6.25 6.50 5.25 5.25 6.00 7.00 6.75 - - 6.15
+ Performance / Execution 1.00 6.00 6.25 5.25 5.25 6.00 7.00 6.25 - - 5.95
+ Choreography / Composition 1.00 6.00 6.75 5.50 5.25 6.25 7.25 7.00 - - 6.30
+ Interpretation 1.00 6.25 6.50 5.50 5.50 6.00 7.00 6.50 - - 6.15
+ Judges Total Program Component Score (factored) 30.85
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 24 DEMIRBOGA Burak TUR 28 56.33 30.93 25.40 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+3T ! 10.30 -0.28 -1 0 0 -1 -1 0 0 - - 10.02
+ 2 3A 8.50 -3.00 -3 -3 -2 -3 -3 -3 -3 - - 5.50
+ 3 CCoSp4 3.50 0.10 0 0 1 0 0 1 0 - - 3.60
+ 4 3F 5.83 x -0.84 -1 -1 -1 -1 -1 -2 -2 - - 4.99
+ 5 CSSp3 2.60 -0.12 -1 0 -1 0 0 -1 0 - - 2.48
+ 6 StSq2 2.60 -0.20 0 -1 0 -1 -1 0 0 - - 2.40
+ 7 FCSp2 2.30 -0.36 -2 -2 0 -1 -1 -1 -1 - - 1.94
+ 35.63 30.93
+ Program Components Factor
+ Skating Skills 1.00 5.50 4.50 6.25 5.00 5.75 6.00 4.75 - - 5.40
+ Transitions / Linking Footwork / Movement 1.00 4.75 4.25 6.00 4.00 5.25 5.50 4.50 - - 4.85
+ Performance / Execution 1.00 5.00 4.25 6.25 4.50 5.50 6.00 4.75 - - 5.15
+ Choreography / Composition 1.00 4.75 4.00 6.25 4.75 5.50 5.75 4.50 - - 5.05
+ Interpretation 1.00 5.00 4.25 6.00 4.25 5.50 5.75 4.25 - - 4.95
+ Judges Total Program Component Score (factored) 25.40
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 12/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 25 PAPP Béla FIN 5 56.08 28.33 27.75 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3T+3T 8.60 -0.70 -1 -1 -1 -1 -1 -1 -1 - - 7.90
+ 2 3F 5.30 0.00 1 -1 1 0 -1 0 0 - - 5.30
+ 3 FCSp3 2.80 0.00 0 0 0 0 0 0 0 - - 2.80
+ 4 2A 3.63 x -1.00 -2 -2 -2 -2 -2 -2 -2 - - 2.63
+ 5 CSSp3 2.60 0.30 1 1 1 0 0 0 1 - - 2.90
+ 6 CCoSp4 3.50 0.40 1 2 1 0 1 0 1 - - 3.90
+ 7 StSq2 2.60 0.30 1 1 1 1 -1 0 0 - - 2.90
+ 29.03 28.33
+ Program Components Factor
+ Skating Skills 1.00 5.75 5.50 4.75 5.75 5.50 5.50 5.25 - - 5.50
+ Transitions / Linking Footwork / Movement 1.00 5.50 5.00 4.50 5.50 5.00 5.00 5.75 - - 5.20
+ Performance / Execution 1.00 5.75 5.75 4.50 6.25 5.50 5.50 6.25 - - 5.75
+ Choreography / Composition 1.00 5.75 5.50 4.75 5.75 5.00 5.50 6.25 - - 5.50
+ Interpretation 1.00 6.25 5.75 5.00 6.00 5.25 5.75 6.75 - - 5.80
+ Judges Total Program Component Score (factored) 27.75
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 26 PARRY-EVANS Charlie GBR 4 55.49 29.24 26.25 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3T+3T 8.60 0.14 1 1 0 0 0 0 0 - - 8.74
+ 2 CCSp3 2.80 0.00 0 0 0 0 0 0 0 - - 2.80
+ 3 StSq3 3.30 0.00 0 0 0 0 0 0 0 - - 3.30
+ 4 3Lo 5.61 x -0.14 0 0 1 -1 0 0 -1 - - 5.47
+ 5 2A 3.63 x 0.20 1 0 1 1 0 0 0 - - 3.83
+ 6 CCoSp2 2.50 0.00 1 0 0 0 0 0 -1 - - 2.50
+ 7 FSSp3 2.60 0.00 1 -1 0 0 0 0 0 - - 2.60
+ 29.04 29.24
+ Program Components Factor
+ Skating Skills 1.00 6.25 5.00 4.75 5.50 5.50 5.50 5.75 - - 5.45
+ Transitions / Linking Footwork / Movement 1.00 5.75 5.00 4.50 5.25 5.00 4.75 6.00 - - 5.15
+ Performance / Execution 1.00 6.00 4.75 4.75 5.00 5.25 5.50 5.50 - - 5.20
+ Choreography / Composition 1.00 6.25 5.00 4.75 5.25 5.25 5.25 6.00 - - 5.35
+ Interpretation 1.00 6.00 4.75 4.50 5.00 5.00 5.50 5.25 - - 5.10
+ Judges Total Program Component Score (factored) 26.25
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 13/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 27 LIU Runqi CHN 23 54.63 28.58 27.05 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3F+3T 9.60 0.14 0 0 1 0 0 0 1 - - 9.74
+ 2 1A* * 0.00 0.00 - - - - - - - - - 0.00
+ 3 FCSp4 3.20 0.00 0 -1 0 0 0 0 0 - - 3.20
+ 4 CCoSp2 2.50 0.00 0 -1 1 0 0 0 0 - - 2.50
+ 5 3Lz 6.60 x 0.14 0 0 1 0 0 0 1 - - 6.74
+ 6 CSSp4 3.00 0.00 0 0 0 0 0 0 1 - - 3.00
+ 7 StSq3 3.30 0.10 0 0 1 0 0 0 1 - - 3.40
+ 28.20 28.58
+ Program Components Factor
+ Skating Skills 1.00 6.00 5.75 5.75 5.50 5.75 5.75 5.75 - - 5.75
+ Transitions / Linking Footwork / Movement 1.00 5.50 5.00 5.50 4.50 5.50 5.25 5.00 - - 5.25
+ Performance / Execution 1.00 5.25 5.00 5.50 5.00 5.50 5.50 5.50 - - 5.35
+ Choreography / Composition 1.00 5.25 5.25 5.75 5.25 5.50 5.50 5.75 - - 5.45
+ Interpretation 1.00 5.25 5.00 5.50 4.75 5.50 5.50 5.00 - - 5.25
+ Judges Total Program Component Score (factored) 27.05
+ Deductions: Late start: -1.00 -1.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 28 PANIKHIN Artur KAZ 24 54.11 27.21 26.90 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+2T 7.30 -1.40 -2 -2 -1 -1 -2 -3 -3 - - 5.90
+ 2 3Lo 5.10 0.00 0 0 0 0 1 0 0 - - 5.10
+ 3 CCoSp4 3.50 0.30 0 0 1 1 0 1 1 - - 3.80
+ 4 2A 3.63 x 0.10 0 0 1 0 0 0 1 - - 3.73
+ 5 FCSp3 2.80 0.10 0 0 1 0 0 0 1 - - 2.90
+ 6 StSq3 3.30 0.00 1 0 0 0 0 0 0 - - 3.30
+ 7 CSSp3 2.60 -0.12 -1 -1 0 0 0 -1 0 - - 2.48
+ 28.23 27.21
+ Program Components Factor
+ Skating Skills 1.00 5.50 5.00 5.50 5.50 6.00 5.50 5.50 - - 5.50
+ Transitions / Linking Footwork / Movement 1.00 5.25 5.00 5.25 5.75 5.75 5.00 5.00 - - 5.25
+ Performance / Execution 1.00 5.25 4.75 5.25 5.50 5.75 5.25 5.75 - - 5.40
+ Choreography / Composition 1.00 5.25 5.00 5.50 5.50 5.50 5.50 5.75 - - 5.45
+ Interpretation 1.00 5.50 4.75 5.25 5.25 5.75 5.25 5.25 - - 5.30
+ Judges Total Program Component Score (factored) 26.90
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 14/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 29 KOPPEL Samuel EST 22 53.52 24.62 28.90 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2A 3.30 0.70 2 2 1 2 1 1 1 - - 4.00
+ 2 2T+3T 5.60 -0.14 0 0 0 -1 0 0 -1 - - 5.46
+ 3 FSSp4 3.00 0.30 1 1 1 0 0 1 0 - - 3.30
+ 4 CCoSp4 3.50 0.50 1 1 1 1 1 1 1 - - 4.00
+ 5 3Lo< < 3.96 x -1.68 -2 -3 -2 -2 -2 -3 -3 - - 2.28
+ 6 StSq2 2.60 0.30 1 2 0 0 0 1 1 - - 2.90
+ 7 CCSp3 2.80 -0.12 0 0 0 -1 0 -1 -1 - - 2.68
+ 24.76 24.62
+ Program Components Factor
+ Skating Skills 1.00 5.50 5.75 5.25 5.75 6.25 6.25 5.50 - - 5.75
+ Transitions / Linking Footwork / Movement 1.00 5.25 5.75 5.00 5.75 6.00 5.75 6.00 - - 5.70
+ Performance / Execution 1.00 5.50 6.00 5.25 5.75 6.25 6.50 5.00 - - 5.75
+ Choreography / Composition 1.00 5.75 6.25 5.00 5.50 6.00 6.25 5.75 - - 5.85
+ Interpretation 1.00 5.75 6.00 5.00 5.75 6.00 6.50 5.75 - - 5.85
+ Judges Total Program Component Score (factored) 28.90
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 30 LEE Dong Won KOR 29 50.76 28.06 23.70 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 1A* * 0.00 0.00 - - - - - - - - - 0.00
+ 2 3Lz 6.00 -1.82 -2 -3 -3 -3 -2 -2 -3 - - 4.18
+ 3 StSq2 2.60 0.20 1 0 1 0 0 1 0 - - 2.80
+ 4 CSSp4 3.00 0.00 0 -1 0 0 0 1 0 - - 3.00
+ 5 3F+3T 10.56 x 0.42 1 0 1 0 0 1 1 - - 10.98
+ 6 FCSp4 3.20 0.10 1 0 0 0 0 1 0 - - 3.30
+ 7 CCoSp4 3.50 0.30 0 1 1 0 0 1 1 - - 3.80
+ 28.86 28.06
+ Program Components Factor
+ Skating Skills 1.00 6.00 6.00 5.50 4.75 4.75 6.00 5.25 - - 5.50
+ Transitions / Linking Footwork / Movement 1.00 5.25 4.00 5.00 4.00 4.00 3.75 4.25 - - 4.25
+ Performance / Execution 1.00 5.25 4.50 5.25 3.75 4.00 5.00 4.50 - - 4.65
+ Choreography / Composition 1.00 5.75 4.50 5.50 4.25 4.50 4.75 4.75 - - 4.80
+ Interpretation 1.00 5.25 4.75 5.50 3.50 4.25 4.25 4.00 - - 4.50
+ Judges Total Program Component Score (factored) 23.70
+ Deductions: Late start: -1.00 -1.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 15/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 31 BJORK Marcus SWE 14 47.69 24.54 23.15 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz 6.00 -0.84 -2 -1 -1 -1 -1 -1 -2 - - 5.16
+ 2 2A 3.30 -1.30 -3 -2 -3 -2 -3 -3 -2 - - 2.00
+ 3 3T+3T 8.60 -1.82 -3 -3 -2 -3 -2 -3 -2 - - 6.78
+ 4 CCoSp2 2.50 -0.24 -1 -1 0 -1 -1 0 -1 - - 2.26
+ 5 StSq2 2.60 0.00 0 0 0 0 0 1 0 - - 2.60
+ 6 FCSp3 2.80 0.00 0 0 0 0 0 0 0 - - 2.80
+ 7 CSSp4 3.00 -0.06 0 -1 0 0 -1 1 0 - - 2.94
+ 28.80 24.54
+ Program Components Factor
+ Skating Skills 1.00 4.75 4.75 4.50 4.75 5.00 5.75 4.75 - - 4.80
+ Transitions / Linking Footwork / Movement 1.00 4.25 4.50 4.00 4.25 4.50 5.50 4.50 - - 4.40
+ Performance / Execution 1.00 4.50 4.75 4.25 4.50 4.50 5.75 4.75 - - 4.60
+ Choreography / Composition 1.00 4.25 5.00 4.50 4.75 4.50 5.75 5.00 - - 4.75
+ Interpretation 1.00 4.50 5.00 4.25 4.50 4.50 5.75 4.50 - - 4.60
+ Judges Total Program Component Score (factored) 23.15
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 32 TSIBA Michel NED 7 43.35 19.45 23.90 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2A 3.30 0.00 1 0 0 -1 0 0 0 - - 3.30
+ 2 3Lo< < 3.60 -1.96 -3 -3 -2 -2 -3 -3 -3 - - 1.64
+ 3 FCSp2 2.30 -0.06 -1 0 0 0 0 0 -1 - - 2.24
+ 4 2T+3T< < 4.73 x -2.10 -3 -3 -3 -3 -3 -3 -3 - - 2.63
+ 5 StSq3 3.30 0.10 1 0 0 0 0 1 0 - - 3.40
+ 6 CCoSp4 3.50 0.20 1 0 0 0 1 1 0 - - 3.70
+ 7 CSSp3 2.60 -0.06 -1 -1 0 0 0 0 0 - - 2.54
+ 23.33 19.45
+ Program Components Factor
+ Skating Skills 1.00 4.75 4.50 4.50 5.25 4.75 4.75 4.75 - - 4.70
+ Transitions / Linking Footwork / Movement 1.00 4.25 4.50 4.25 4.75 4.25 4.75 5.25 - - 4.50
+ Performance / Execution 1.00 4.25 4.75 4.25 5.25 4.75 5.25 5.00 - - 4.80
+ Choreography / Composition 1.00 4.50 5.25 4.50 5.00 4.50 5.25 5.50 - - 4.90
+ Interpretation 1.00 4.75 5.00 4.25 5.25 4.50 5.50 5.50 - - 5.00
+ Judges Total Program Component Score (factored) 23.90
+ Deductions: 0.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 16/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 33 LEE Harry Hau Yin HKG 17 41.95 21.20 20.75 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz+COMBO 6.00 -2.10 -3 -3 -3 -3 -3 -3 -3 - - 3.90
+ 2 CCoSp4 3.50 0.10 0 0 1 0 0 1 0 - - 3.60
+ 3 FCSp1 1.90 -0.60 -2 -3 0 -2 -2 -2 -2 - - 1.30
+ 4 3F 5.83 x -1.96 -3 -3 -2 -3 -2 -3 -3 - - 3.87
+ 5 StSq2 2.60 -0.30 -1 -1 0 -1 -1 0 0 - - 2.30
+ 6 2A 3.63 x 0.00 -1 0 0 0 0 0 0 - - 3.63
+ 7 CSSp3 2.60 0.00 0 0 1 0 0 0 0 - - 2.60
+ 26.06 21.20
+ Program Components Factor
+ Skating Skills 1.00 4.50 4.00 4.75 4.25 4.25 4.75 4.25 - - 4.40
+ Transitions / Linking Footwork / Movement 1.00 4.00 4.00 4.50 3.75 3.75 4.50 3.75 - - 4.00
+ Performance / Execution 1.00 4.00 4.00 4.50 4.00 3.75 4.75 4.00 - - 4.10
+ Choreography / Composition 1.00 4.25 3.75 4.75 4.00 4.00 4.75 4.25 - - 4.25
+ Interpretation 1.00 4.00 3.75 4.50 3.75 4.00 4.75 3.75 - - 4.00
+ Judges Total Program Component Score (factored) 20.75
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 34 PIKHOVYCH Vladyslav UKR 36 40.02 20.97 20.05 -1.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3T+2T 5.60 0.00 0 0 0 0 0 0 0 - - 5.60
+ 2 3Lo 5.10 -2.10 -3 -3 -3 -3 -3 -3 -3 - - 3.00
+ 3 CCSp2 2.30 -0.36 -2 -2 -1 -1 -1 -1 -1 - - 1.94
+ 4 2A 3.63 x -1.00 -2 -2 -2 -2 -2 -2 -2 - - 2.63
+ 5 CCoSp4 3.50 -0.06 0 -1 0 -1 0 0 0 - - 3.44
+ 6 FSSp3 2.60 -0.54 -2 -2 0 -2 -2 -2 -1 - - 2.06
+ 7 StSq2 2.60 -0.30 0 -1 0 -2 -1 0 -1 - - 2.30
+ 25.33 20.97
+ Program Components Factor
+ Skating Skills 1.00 4.75 3.75 4.25 4.25 4.25 4.25 4.25 - - 4.25
+ Transitions / Linking Footwork / Movement 1.00 4.25 3.50 4.00 3.50 4.00 3.75 3.75 - - 3.80
+ Performance / Execution 1.00 4.25 3.25 4.25 3.50 4.00 4.00 4.00 - - 3.95
+ Choreography / Composition 1.00 4.50 3.50 4.50 3.75 4.25 4.25 4.25 - - 4.20
+ Interpretation 1.00 4.25 3.25 4.25 3.25 4.00 4.00 3.75 - - 3.85
+ Judges Total Program Component Score (factored) 20.05
+ Deductions: Falls: -1.00 -1.00
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 17/18
+ Almaty Arena: Figure Skating Figure Skating
+ Men
+ FRI 03 FEB 2017
+ Short Program
+ Judges Details per Skater
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 35 IONIAN Mario-Rafael AUT 21 36.99 14.99 22.00 0.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 2T+COMBO+3T* * 1.30 -0.60 -3 -3 -3 -3 -3 -3 -3 - - 0.70
+ 2 2S* * 0.00 0.00 - - - - - - - - - 0.00
+ 3 FCSp3 2.80 -0.36 -1 -3 0 -1 -1 -1 -2 - - 2.44
+ 4 CSSp3 2.60 0.00 0 0 0 0 0 -1 0 - - 2.60
+ 5 2A 3.63 x 0.00 0 0 0 0 0 0 0 - - 3.63
+ 6 StSq3 3.30 0.00 0 0 1 0 0 0 0 - - 3.30
+ 7 CCoSp3V 2.50 -0.18 -1 -1 0 0 0 -2 -1 - - 2.32
+ 16.13 14.99
+ Program Components Factor
+ Skating Skills 1.00 4.75 4.00 4.50 4.50 4.75 4.75 4.75 - - 4.65
+ Transitions / Linking Footwork / Movement 1.00 4.50 3.50 4.00 4.25 4.25 4.25 4.25 - - 4.20
+ Performance / Execution 1.00 4.25 4.00 4.25 4.25 4.50 4.50 4.25 - - 4.30
+ Choreography / Composition 1.00 5.00 4.00 4.50 4.25 4.25 4.50 5.00 - - 4.50
+ Interpretation 1.00 4.50 4.00 4.00 4.50 4.25 4.75 4.50 - - 4.35
+ Judges Total Program Component Score (factored) 22.00
+ Deductions: 0.00
+ Total Total Total Total
+ Name Country Starting Segment Element Program Component Deductions
+ Rank
+ Number Score Score Score (factored)
+ 36 KLEPOCH Marco SVK 12 36.53 15.43 23.10 -2.00
+ Base
+ Info
+ Executed J1 J2 J3 J4 J5 J6 J7 J8 J9 Scores
+ # Value GOE
+ Elements of Panel
+ 1 3Lz<<+COMBO << 2.10 -0.90 -3 -3 -3 -3 -3 -3 -3 - - 1.20
+ 2 CCoSp2V 2.00 0.00 0 0 0 0 0 0 0 - - 2.00
+ 3 3S 4.40 -2.10 -3 -3 -3 -3 -3 -3 -3 - - 2.30
+ 4 StSq2 2.60 0.00 1 -1 0 0 0 0 0 - - 2.60
+ 5 2A< < 2.53 x -0.80 -2 -2 -1 -2 -1 -1 -2 - - 1.73
+ 6 FCSp3 2.80 0.00 0 -1 0 0 0 0 0 - - 2.80
+ 7 CSSp3 2.60 0.20 1 0 0 0 0 1 1 - - 2.80
+ 19.03 15.43
+ Program Components Factor
+ Skating Skills 1.00 5.25 4.00 4.50 5.00 4.75 5.00 5.00 - - 4.85
+ Transitions / Linking Footwork / Movement 1.00 5.00 3.75 4.00 4.25 4.25 4.75 4.25 - - 4.30
+ Performance / Execution 1.00 4.75 3.75 4.25 4.75 4.50 4.75 4.25 - - 4.50
+ Choreography / Composition 1.00 5.00 4.00 4.50 5.00 4.50 5.00 5.00 - - 4.80
+ Interpretation 1.00 5.25 4.00 4.25 4.50 4.50 5.25 4.75 - - 4.65
+ Judges Total Program Component Score (factored) 23.10
+ Deductions: Falls: -2.00 -2.00
+ LEGEND
+ GOE Grade of Execution x Credit for highlight distribution, base value multiplied by 1.1
+ * Invalid element
+ < Under-rotated jump
+FSKMSINGLES-----------QUAL000100--_77B 1.0 Report Created FRI 3 FEB 2017 19:53 Page 18/18
+

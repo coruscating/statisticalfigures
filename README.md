@@ -11,6 +11,7 @@ Common fields:
 - comp: short code from filename, lowercased
 - year: 2018
 - discp: 0=Men, 1=Ladies
+- field: 0=Senior, 1=Junior
 - seg: 0=SP, 1=FP
 - skname: first names LAST NAME
 - nat: 3 letter nation code from protocols
@@ -19,7 +20,7 @@ Common fields:
 `agg_elems.csv` fields:
 
 - elen: element # in program
-- eles: element description with features and levels removed (ex: 3T+3T+3T, StSq)
+- eles: simple element description with features and levels removed (ex: 3T+3T+3T, StSq)
 - lvl: element level (for spins and step sequences), - if level not applicable
 - bl: element backloaded (0=no, 1=yes)
 - dg: element downgraded << (0=no, 1=yes)
@@ -47,32 +48,37 @@ Common fields:
 - pcsNjM: Mth judge score for PCS category N
 - pcsNt: PCS category N total (unfactored)
 
-`agg_comp.csv` fields:
+`agg_seg.csv` fields (to-do):
 
-- 
+- refname: referee name
+- jNname: name of judge N
+- jNnat: country of judge N
+- cont: technical controller
+- spec: technical specialist
+- aspec: assistant technical specialist
+- dat: data operator
+- rep: replay operator
 
 
 ## Retrieving Data
 
-1. Score PDFs need to be downloaded from the ISU website. Here's one way to use Google to crawl for PDFs:
+1. Get a list of PDFs with relevant search term (only works for newer seasons):
 
 ```
-site:isuresults.com http://www.isuresults.com/results/season1718 filetype:pdf
+./dlpdflist.sh season1718
 ```
 
-2. Download the Google results HTML and search for score PDFs by excluding time schedules:
+2. Batch download protocols:
 
 ```
-grep -o "http://www.isuresults.com/results/season1718[a-zA-Z0-9/_]*\.pdf" google_1718 | uniq | grep -vi time > pdflist
+./dlprotocols.sh season1718
 ```
 
-3. Batch download protocols with `wget`:
+4. Make plaintext files from PDFs:
 
 ```
-wget -i pdflist
+./parseprotocols.sh season1718
 ```
-
-4. Run `parseprotocol.sh` to make plaintext files suitable for feeding into `protocoltodata.py`.
 
 5. Run `protocoltodata.py` to generate `agg_elems.csv` and `agg_progs.csv`.
 
@@ -96,6 +102,7 @@ wget -i pdflist
 | GP USA            | gpusa     |
 | Nebelhorn         | csger     |
 | Junior Worlds     | wjc       |
+| Winter Universiade| wu        |
 +-------------------+-----------+
 ```
 
@@ -105,9 +112,20 @@ wget -i pdflist
 
 ## To-Do/Known Problems
 
+- Get remaining competitions from this season
 - Do previous seasons
-- Add Juniors, Pairs and Dance
+- Add Pairs and Dance
 - Add a table for competitions with judge info and other stuff
 - Dump stuff into database
-- Check for number of judges in the code...(right now it assumes there are 9, but Shanghai Trophy for example didn't have 9)
-- Should V spins have that feature in the simple field? 
+- Older protocols have more than 9 judges...
+- Check for number of elements on the protocols (instead of assuming a number based on discipline)
+- Try direct download instead of Google list? Or maybe hybrid approach
+
+## Changelog
+
+- Added seasons 2015-16 and 2016-17
+- Competitions fewer than 9 judges will now have '-' for the fields with no judges
+- Added Juniors
+- Fixed B step sequence simple description and levels
+- Fixed V spin simple description and levels
+- Fixed +COMBO, +REP simple description

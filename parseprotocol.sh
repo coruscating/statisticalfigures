@@ -1,8 +1,19 @@
 #!/bin/bash
 
-# Run this before running protocoltodata.py to generate text files from PDF protocols
+# 1. run dlpdflist.sh - get list of PDFs from google
+# 2. run dlprotocols.sh - download PDFs
+# 3. run parseprotocols.sh - convert PDFs to text
+# 4. run protocoltodata.py - output csv files
 
-for filename in protocols/season1718/*.pdf; do
+
+if [ "a"$1 = "a" ] ; then
+	echo "Usage: parseprotocols.sh <searchstring>"
+	exit 0
+fi
+
+season=$1
+
+for filename in protocols/$season/*.pdf; do
 
 filehandle=`echo $filename | awk -F. '{ print $1 ; }'`
 
