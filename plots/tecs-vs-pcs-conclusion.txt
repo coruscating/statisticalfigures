@@ -1,0 +1,14 @@
+#-- analysis: tecs vs pcs
+#--- April 18th: first try: use basevalue as a measure of program difficulty, and tecs-basevalue as a measure of "execution quality".
+#analysis details: see rcodes/tecs-vs-pcs.R
+#plots: adjusted R^2 of various models: plots/ar2*.pdf ; scatter plot: tpcs-vs-tes.png
+#------------
+#-- Conclusions:
+#------------
+#1/ Total base value (tbv) + quality (total goe minus deductions) predict total PCS well for junior, especially for women (80% to 85% variation). It does less well for senior women, and much less for senior men (TBV alone predict less than 50% for senior men, TBV + quality ~ 65%). 
+#2/ Between tbv and quality, tbv accounts for more R^2
+#3/ Separating tes into tbv+quality improves R^2 but a fair bit for seniors, but not so much for juniors. 
+#-- Meta conclusion
+#junior programs: pcs is well-predicted by tes, senior programs less so. 
+#between men and women, pcs of women programs are better predicted by tes. 
+#tbv alone is a decent predictor of tpcs, much better than goe.  
