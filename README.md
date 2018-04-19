@@ -2,6 +2,10 @@
 
 Data science meets the ice.
 
+## The Data
+
+All Junior/Senior Singles protocol data from 2016-2018 seasons available on the ISU website. 
+
 ## Data Format
 
 `agg_elems.csv` has one line per element and `agg_progs.csv` has one line per program.
@@ -119,11 +123,11 @@ Common fields:
 - Add a table for competitions with judge info and other stuff
 - Dump stuff into database
 - Older protocols have more than 9 judges...
-- Check for number of elements on the protocols (instead of assuming a number based on discipline)
 - Make competition list, download older protocols
 
 ## Changelog
 
+- Fixed number of elements bug, added num# fields
 - Added seasons 2015-16 and 2016-17
 - Competitions fewer than 9 judges will now have '-' for the fields with no judges
 - Added Juniors

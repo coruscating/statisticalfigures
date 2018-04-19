@@ -2,7 +2,7 @@
 #--- April 18th: first try: use basevalue as a measure of program difficulty, and tecs-basevalue as a measure of "execution quality".
 #--- Regression: pcs vs (difficulty) + (quality)
 rm(list = ls())
-setwd("~/gitfolders/statisticalfigures/")
+setwd("~/Documents/skating/statisticalfigures/")
 library(ggplot2)
 data <- read.csv("agg_progs.csv", header=T)
 data$quality <- data$tes - data$tbv
@@ -64,11 +64,12 @@ as.matrix(ar2)
 #seems that for junior, tpcs is better predicted by tbv + quality
 #-- do a plot
 png(file = "plots/tpcs-vs-tes.png",width=1000,height=1000)
-par(mfrow = c(4,4))
+par(mfrow = c(4,6))
 for(s in levels(data$inter)){
   select = data$inter == s
   plot(data$tpcs[select] ~ data$tbv[select],main=s,xlab="tbv",ylab="tpcs") 
-  plot(data$tpcs[select] ~ data$quality[select],main=s,xlab="quality",ylab="tpcs") 
+  plot(data$tpcs[select] ~ data$num4[select],main=s,xlab="num4",ylab="tpcs")
+  plot(data$tpcs[select] ~ data$num3[select],main=s,xlab="num3",ylab="tpcs") 
 }
 dev.off()
 
