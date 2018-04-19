@@ -9,7 +9,7 @@ Data science meets the ice.
 Common fields:
 
 - comp: short code from filename, lowercased
-- year: 2018
+- year: 20XX
 - discp: 0=Men, 1=Ladies
 - field: 0=Senior, 1=Junior
 - seg: 0=SP, 1=FP
@@ -44,6 +44,7 @@ Common fields:
 - tpcs: total PCS (factored)
 - tded: total deductions
 - tbv: total base value
+- num#: number of jumps attempted of # of rotations (num3=number of triples)
 - pcsNfactor: factor for PCS category N
 - pcsNjM: Mth judge score for PCS category N
 - pcsNt: PCS category N total (unfactored)
@@ -112,14 +113,14 @@ Common fields:
 
 ## To-Do/Known Problems
 
-- Get remaining competitions from this season
+- Get remaining competitions (challengers, nationals?, misc)
 - Do previous seasons
 - Add Pairs and Dance
 - Add a table for competitions with judge info and other stuff
 - Dump stuff into database
 - Older protocols have more than 9 judges...
 - Check for number of elements on the protocols (instead of assuming a number based on discipline)
-- Try direct download instead of Google list? Or maybe hybrid approach
+- Make competition list, download older protocols
 
 ## Changelog
 
