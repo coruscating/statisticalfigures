@@ -1,4 +1,5 @@
 
+from __future__ import division
 import sys
 import string
 import re
@@ -26,7 +27,7 @@ fo2=open("../agg_progs.csv", "w")
 
 
 
-fo.write("comp,year,discp,field,seg,skname,nat,elen,eles,lvl,bl,dg,ur,ue,we,iv,ele,bv,goe,")
+fo.write("comp,year,discp,field,seg,skname,nat,elen,eles,lvl,bl,dg,ur,ue,we,iv,ele,bv,goe,goefac")
 fo2.write("comp,year,discp,field,seg,skname,nat,rank,order,tss,tes,tpcs,tded,tbv,num0,num1,num2,num3,num4,")
 
 for j in range(9):
@@ -132,12 +133,30 @@ for directory in dirlist:
                         for js in jumps:
                             if js[0].isdigit():
                                 jumptypes[int(js[0])]+=1
-                    for pad in range(13-len(line[1:])): # fewer than 9 judges
+                    
+
+                    # computing GOE factor now
+                    
+                    #totgoe=line[3]
+                    #print line
+                    judges=line[4:-1]
+                    numjudges=len(judges)
+                    #goes=[int(ii) for ii in judges]
+                    #if numjudges == 9: # fewer than 9 judges--don't remove highest and lowest?
+                    #goes.remove(max(goes))
+                    #goes.remove(min(goes))
+                    #goefactor=round(float(totgoe)/(sum(goes)/len(goes)),1)
+                    
+                    goefactor=1
+                    #facjudges=[int(ii)*goefactor for ii in judges]
+                    facjudges=judges
+
+                    for pad in range(9-numjudges): # fewer than 9 judges
                         line.insert(-1,'-')
                     eles=eles.replace("+COMBO","")
                     eles=eles.replace("+REP","")
                     fo.write(comp + "," + year + "," + str(discp) + "," + str(field) + "," + str(seg) + "," + fn + " " + ln + "," + nat + ",")
-                    fo.write(elen + "," + eles + "," + lvl + "," + ",".join(str(k) for k in stuff) + "," + ",".join(line[1:]) + "\n")
+                    fo.write(elen + "," + eles + "," + lvl + "," + ",".join(str(k) for k in stuff) + "," + ",".join(line[1:]) + "," + str(goefactor) + "," + ",".join(str(ii) for ii in facjudges) + "\n")
 
             elif content[i].startswith("Program Components Factor"):
                 fo2.write(comp + "," + year + "," + str(discp) + "," + str(field) + "," + str(seg) + "," + fn + " " + ln + "," + nat + "," + rank + "," + score + ",")
