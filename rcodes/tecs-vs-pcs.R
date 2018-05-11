@@ -55,12 +55,19 @@ summary(model3.tes)
 #--- separate into different subsets
 data$inter <- interaction(data$field, data$discp,data$seg)
 models <- list()
-ar2 <- list()
+models2 <- list()
+ar <- c(NA,NA)
+
 for(s in levels(data$inter)){
   models[[s]] <- lm(tpcs ~ tbv + quality, data = data, subset = data$inter == s) 
-  ar2[[s]] <- summary(models[[s]])$adj.r.squared
+  models2[[s]] <- lm(tpcs ~ tes, data = data, subset = data$inter == s) 
+  ar <- rbind(ar, c(round(summary(models[[s]])$adj.r.squared,3)*100,round(summary(models2[[s]])$adj.r.squared,3)*100))
 }
-as.matrix(ar2)
+ar <- ar[-1,]
+row.names(ar) <- levels(data$inter)
+colnames(ar) <- c("bv.goe","tes")
+#here is our table of adjusted R^2
+print(ar)
 #seems that for junior, tpcs is better predicted by tbv + quality
 #-- do a plot
 png(file = "plots/tpcs-vs-tes.png",width=1000,height=1000)
@@ -71,6 +78,14 @@ for(s in levels(data$inter)){
   plot(data$tpcs[select] ~ data$quality[select],main=s,xlab="quality",ylab="tpcs") 
 }
 dev.off()
+
+#do a predict with tbv+goe
+models <- list()
+ar2 <- list()
+for(s in levels(data$inter)){
+  models[[s]] <- lm(tpcs ~ tbv+quality, data = data, subset = data$inter == s) 
+  ar2[[s]] <- summary(models[[s]])$adj.r.squared
+}
 
 #do a predict with just tbv
 models.bv <- list()
@@ -90,14 +105,15 @@ for(s in levels(data$inter)){
 models.t <- list()
 ar2.t <- list()
 for(s in levels(data$inter)){
-  models.t[[s]] <- lm(tpcs ~ num4, data = data, subset = data$inter == s) 
+  models.t[[s]] <- lm(tpcs ~ tes, data = data, subset = data$inter == s) 
   ar2.t[[s]] <- summary(models.t[[s]])$adj.r.squared
 }
 
 #a table of adjusted r-squared for the various models
-ar2.all <- cbind(matrix(unlist(ar2)),matrix(unlist(ar2.bv)),matrix(unlist(ar2.q)), matrix(unlist(ar2.t)))
-rownames(ar2.all) <- rownames(as.matrix(ar2))
-colnames(ar2.all) <- c("tbv.quality","tbv","quality","tes")
+ar2.raw <- cbind(matrix(unlist(ar2)),matrix(unlist(ar2.bv)),matrix(unlist(ar2.q)), matrix(unlist(ar2.t)))
+rownames(ar2.raw) <- rownames(as.matrix(ar2))
+colnames(ar2.raw) <- c("tbv.quality","tbv","quality","tes")
+ar2.all <- round(ar2.raw,3)*100
 #save
 ar2.df <- data.frame(ar2.all)
 sink(file = "plots/tpcs-vs-tes-adjustedR2.txt")
@@ -116,8 +132,8 @@ p <- ggplot(ar2.df, aes(x=tes, y=tbv.quality, colour=discp,shape=field,fill=seg)
 geom_text(aes(y=tbv.quality-0.01,label=type))+ scale_shape_manual(values=c(21,24))+ #scale_fill_manual(values=c("gray", "white"))
 scale_fill_manual(values=c(NA, "gray"),
 guide=guide_legend(override.aes=list(shape=21)))
-p + ggtitle("Adjusted R^2, tbv+quality vs tes") + geom_abline(aes(intercept=0,slope=1))
-ggsave("plots/ar2-tqvstes.pdf")
+p + ggtitle("Adjusted R^2, bv.goe vs tes") + geom_abline(aes(intercept=0,slope=1))+ ylab("bv.goe")
+ggsave("plots/ar2-tqvstes.png")
 #--- 
 p <- ggplot(ar2.df, aes(x=tbv, y=tbv.quality, colour=discp,shape=field,fill=seg)) + geom_point(size=4) +
 geom_text(aes(y=tbv.quality-0.01,label=type))+ scale_shape_manual(values=c(21,24))+ #scale_fill_manual(values=c("gray", "white"))
@@ -134,6 +150,14 @@ p + ggtitle("Adjusted R^2, tbv+quality vs quality alone")
 ggsave("plots/ar2-allvsquality.pdf")
 #---------
 #--- similar plot for tes. Should compare tes and bvs. 
+#---- 
+p <- ggplot(ar2.df, aes(x=tbv, y=tes, colour=discp,shape=field,fill=seg)) +   geom_point(size=4) +
+geom_text(aes(y=tbv.quality-0.01,label=type))+ scale_shape_manual(values=c(21,24))+ #scale_fill_manual(values=c("gray", "white"))
+scale_fill_manual(values=c(NA, "gray"),
+guide=guide_legend(override.aes=list(shape=21)))
+p + ggtitle("Adjusted R^2, tes vs tbv") + geom_abline(aes(intercept=0,slope=1))
+ggsave("plots/ar2-bvvstes.pdf")
+ggsave("plots/ar2-bvvstes.png")
 
 
 #-- Conclusions:

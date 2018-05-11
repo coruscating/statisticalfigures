@@ -1,6 +1,8 @@
-#-- analysis: tecs vs pcs
-#--- April 18th: first try: use basevalue as a measure of program difficulty, and tecs-basevalue as a measure of "execution quality".
-#--- Regression: pcs vs (difficulty) + (quality)
+#May 11th: Ngoc's attempt at analysis PCS vs jump difficulties. 
+#a simple analysis with number of jumps won't be as good, since this number is correlated with base values. 
+#plus, not all jumps have the same bv. 
+#so we will define a customized technical score,bv.jump and goe.jump, where we only take sum of triples and quads.
+
 rm(list = ls())
 setwd("~/Documents/skating/statisticalfigures/")
 library(ggplot2)
