@@ -65,7 +65,7 @@ for(s in levels(data$inter)){
 as.matrix(ar2)
 #seems that for junior, tpcs is better predicted by tbv + quality
 #-- do a plot
-png(file = "plots/tpcs-vs-tes.png",width=1000,height=1000)
+png(file = "plots/tpcs-vs-tbv-vs-jumps.png",width=1000,height=1000)
 par(mfrow = c(4,6))
 for(s in levels(data$inter)){
   select = data$inter == s

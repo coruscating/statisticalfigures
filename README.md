@@ -49,9 +49,12 @@ Common fields:
 - tded: total deductions
 - tbv: total base value
 - num#: number of jumps attempted of # of rotations (num3=number of triples)
-- pcsNfactor: factor for PCS category N
+- pcsNf: factor for PCS category N
 - pcsNjM: Mth judge score for PCS category N
 - pcsNt: PCS category N total (unfactored)
+- pcsjN: PCS score given by judge N
+- tesjN: tech score from BV + GOE of judge N
+- totjN: total score given by judge N
 
 `agg_seg.csv` fields (to-do):
 
@@ -85,7 +88,7 @@ Common fields:
 ./parseprotocols.sh season1718
 ```
 
-5. Run `protocoltodata.py` to generate `agg_elems.csv` and `agg_progs.csv`.
+5. Run `protocoltodata.py` (Python 2) to generate `agg_elems.csv` and `agg_progs.csv`.
 
 ## Competition Abbreviations
 
@@ -117,6 +120,7 @@ Common fields:
 
 ## To-Do/Known Problems
 
+- Add factored GOEs
 - Get remaining competitions (challengers, nationals?, misc)
 - Do previous seasons
 - Add Pairs and Dance
@@ -127,6 +131,7 @@ Common fields:
 
 ## Changelog
 
+- Added individual judge GOEs (unfactored)
 - Fixed number of elements bug, added num# fields
 - Added seasons 2015-16 and 2016-17
 - Competitions fewer than 9 judges will now have '-' for the fields with no judges
