@@ -1,4 +1,5 @@
 #-- analysis: tecs vs pcs
+#--- May 11th: added bonus plots for blog
 #--- April 18th: first try: use basevalue as a measure of program difficulty, and tecs-basevalue as a measure of "execution quality".
 #--- Regression: pcs vs (difficulty) + (quality)
 rm(list = ls())
@@ -17,67 +18,9 @@ data$seg[data$seg == 0] <- "SP"
 data$seg[data$seg == 1] <- "FP"
 data$seg <- as.factor(data$seg)
 
-#-- do some plots: 
-ggplot(data, aes(x=tbv, y=tpcs, colour=seg)) + geom_point()
-ggplot(data, aes(x=tbv, y=tpcs, colour=field)) + geom_point()
-ggplot(data, aes(x=tbv, y=tpcs, colour=discp)) + geom_point()
-#-- 
-ggplot(data, aes(x=quality, y=tpcs, colour=seg)) + geom_point()
-ggplot(data, aes(x=quality, y=tpcs, colour=field)) + geom_point()
-ggplot(data, aes(x=quality, y=tpcs, colour=discp)) + geom_point()
-#-- run basic regression
-model <- lm(tpcs ~ tbv + quality + field + discp+seg, data = data)
-summary(model)
-par(mfrow = c(2,2))
-plot(model)
-#aR2: 94.4%
-#-- compare to no tbv model
-model.notbv <- lm(tpcs ~ quality + field + discp+seg, data = data)
-summary(model.notbv) 
-plot(model.notbv)
-#aR2: 87%. 
-#-- compare to no quality model
-model.noquality <- lm(tpcs ~ tbv + field + discp+seg, data = data)
-summary(model.noquality) 
-plot(model.noquality)
-#aR2: 92%.
-#-- full model, with interaction terms, including competitions
-data$inter <- interaction(data$field, data$discp,data$seg,data$comp)
-model2 <- lm(tpcs ~ tbv + quality+inter, data = data)
-summary(model2)
-#95.56%. Not big improvement. Interactions seems not needed.
-#try with tes instead of tbv +quality
-model3.tes <- lm(tpcs ~ tes+inter,data=data)
-summary(model3.tes)
-#94.7%. Lower.
-
-
 #--- separate into different subsets
 data$inter <- interaction(data$field, data$discp,data$seg)
-models <- list()
-models2 <- list()
-ar <- c(NA,NA)
 
-for(s in levels(data$inter)){
-  models[[s]] <- lm(tpcs ~ tbv + quality, data = data, subset = data$inter == s) 
-  models2[[s]] <- lm(tpcs ~ tes, data = data, subset = data$inter == s) 
-  ar <- rbind(ar, c(round(summary(models[[s]])$adj.r.squared,3)*100,round(summary(models2[[s]])$adj.r.squared,3)*100))
-}
-ar <- ar[-1,]
-row.names(ar) <- levels(data$inter)
-colnames(ar) <- c("bv.goe","tes")
-#here is our table of adjusted R^2
-print(ar)
-#seems that for junior, tpcs is better predicted by tbv + quality
-#-- do a plot
-png(file = "plots/tpcs-vs-tes.png",width=1000,height=1000)
-par(mfrow = c(4,4))
-for(s in levels(data$inter)){
-  select = data$inter == s
-  plot(data$tpcs[select] ~ data$tbv[select],main=s,xlab="tbv",ylab="tpcs") 
-  plot(data$tpcs[select] ~ data$quality[select],main=s,xlab="quality",ylab="tpcs") 
-}
-dev.off()
 
 #do a predict with tbv+goe
 models <- list()
@@ -119,6 +62,38 @@ ar2.df <- data.frame(ar2.all)
 sink(file = "plots/tpcs-vs-tes-adjustedR2.txt")
 print(ar2.df)
 sink()
+#-------- visualize the fit of tpcs vs tes model
+#r2 function for loess
+loess.r2 <- function(loe.obj){
+ss.dist <- sum(scale(loe.obj$y, scale=FALSE)^2)
+ss.resid <- sum(resid(loe.obj)^2)    
+return(1-ss.resid/ss.dist)
+}
+
+
+models.loe <- list()
+par(mfrow = c(1,1))
+for(s in levels(data$inter)){
+#png(file = paste("plots/tpcs-vs-tes-loess",s,".png",sep=""))
+  plot(tpcs ~ tes, data =data, subset = data$inter == s, main = s) 
+  abline(coefficients(models.t[[s]]), col = "blue",lwd=2)
+  #do a loess fit to check if relationship is linear
+  loe <- loess(tpcs ~ tes, data =data, subset = data$inter == s)
+  lines(sort(predict(loe)) ~ sort(loe$x), col = "red", lty = 2,lwd =3)  
+  models.loe[[s]] <- loess.r2(loe)
+#dev.off()
+}
+loe.df <- as.data.frame(round(unlist(models.loe)*100,3))
+names(loe.df) <- c("tes")
+print(loe.df)
+#conclusion: basically a linear model is jsut as good.
+
+
+
+
+
+
+
 #-- visualize the adjusted R^2:
 ar2.df$discp <- c("men","men","women","women","men","men","women","women")
 ar2.df$field <- rep(c("junior","senior"),4)
@@ -168,3 +143,5 @@ ggsave("plots/ar2-bvvstes.png")
 #junior programs: pcs is well-predicted by tes, senior programs less so. 
 #between men and women, pcs of women programs are better predicted by tes. 
 #tbv alone is a decent predictor of tpcs, much better than goe.  
+#====================
+
